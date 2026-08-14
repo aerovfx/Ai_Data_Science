@@ -1,0 +1,4561 @@
+{
+  "courses": [
+    {
+      "id": "computer-vision-10weeks",
+      "title": "Thị Giác Máy Tính (Computer Vision) với OpenCV & YOLO",
+      "documents": [
+        {
+          "title": "Thị Giác Máy Tính (Computer Vision) với OpenCV & YOLO",
+          "path": "courses/computer-vision-10weeks/INDEX.md",
+          "kind": "1. Lesson",
+          "format": "md"
+        },
+        {
+          "title": "Lộ trình Thị Giác Máy Tính (Computer Vision) với OpenCV & YOLO (10 Tuần)",
+          "path": "courses/computer-vision-10weeks/schedule.md",
+          "kind": "1. Lesson",
+          "format": "md"
+        },
+        {
+          "title": "Tuần 1: Nhập môn Thị giác máy tính & OpenCV",
+          "path": "courses/computer-vision-10weeks/lessons/week01.md",
+          "kind": "1. Lesson",
+          "format": "md"
+        },
+        {
+          "title": "Tuần 2: Xử lý ảnh cơ bản",
+          "path": "courses/computer-vision-10weeks/lessons/week02.md",
+          "kind": "1. Lesson",
+          "format": "md"
+        },
+        {
+          "title": "Tuần 3: Lọc ảnh & nhận diện biên",
+          "path": "courses/computer-vision-10weeks/lessons/week03.md",
+          "kind": "1. Lesson",
+          "format": "md"
+        },
+        {
+          "title": "Tuần 4: Phát hiện khuôn mặt với Haar Cascades",
+          "path": "courses/computer-vision-10weeks/lessons/week04.md",
+          "kind": "1. Lesson",
+          "format": "md"
+        },
+        {
+          "title": "Tuần 5: Mạng neural tích chập (CNN) cơ bản",
+          "path": "courses/computer-vision-10weeks/lessons/week05.md",
+          "kind": "1. Lesson",
+          "format": "md"
+        },
+        {
+          "title": "Tuần 6: Phân loại ảnh với Keras",
+          "path": "courses/computer-vision-10weeks/lessons/week06.md",
+          "kind": "1. Lesson",
+          "format": "md"
+        },
+        {
+          "title": "Tuần 7: Transfer Learning",
+          "path": "courses/computer-vision-10weeks/lessons/week07.md",
+          "kind": "1. Lesson",
+          "format": "md"
+        },
+        {
+          "title": "Tuần 8: Phát hiện vật thể với YOLO",
+          "path": "courses/computer-vision-10weeks/lessons/week08.md",
+          "kind": "1. Lesson",
+          "format": "md"
+        },
+        {
+          "title": "Tuần 9: Phân vùng ảnh",
+          "path": "courses/computer-vision-10weeks/lessons/week09.md",
+          "kind": "1. Lesson",
+          "format": "md"
+        },
+        {
+          "title": "Tuần 10: Hand Tracking & đồ án cuối khóa",
+          "path": "courses/computer-vision-10weeks/lessons/week10.md",
+          "kind": "1. Lesson",
+          "format": "md"
+        },
+        {
+          "title": "Presentation — Tuần 1: Nhập môn Thị giác máy tính & OpenCV",
+          "path": "courses/computer-vision-10weeks/presentations/week01.md",
+          "kind": "2. Presentation",
+          "format": "md"
+        },
+        {
+          "title": "Presentation — Tuần 2: Xử lý ảnh cơ bản",
+          "path": "courses/computer-vision-10weeks/presentations/week02.md",
+          "kind": "2. Presentation",
+          "format": "md"
+        },
+        {
+          "title": "Presentation — Tuần 3: Lọc ảnh & nhận diện biên",
+          "path": "courses/computer-vision-10weeks/presentations/week03.md",
+          "kind": "2. Presentation",
+          "format": "md"
+        },
+        {
+          "title": "Presentation — Tuần 4: Phát hiện khuôn mặt với Haar Cascades",
+          "path": "courses/computer-vision-10weeks/presentations/week04.md",
+          "kind": "2. Presentation",
+          "format": "md"
+        },
+        {
+          "title": "Presentation — Tuần 5: Mạng neural tích chập (CNN) cơ bản",
+          "path": "courses/computer-vision-10weeks/presentations/week05.md",
+          "kind": "2. Presentation",
+          "format": "md"
+        },
+        {
+          "title": "Presentation — Tuần 6: Phân loại ảnh với Keras",
+          "path": "courses/computer-vision-10weeks/presentations/week06.md",
+          "kind": "2. Presentation",
+          "format": "md"
+        },
+        {
+          "title": "Presentation — Tuần 7: Transfer Learning",
+          "path": "courses/computer-vision-10weeks/presentations/week07.md",
+          "kind": "2. Presentation",
+          "format": "md"
+        },
+        {
+          "title": "Presentation — Tuần 8: Phát hiện vật thể với YOLO",
+          "path": "courses/computer-vision-10weeks/presentations/week08.md",
+          "kind": "2. Presentation",
+          "format": "md"
+        },
+        {
+          "title": "Presentation — Tuần 9: Phân vùng ảnh",
+          "path": "courses/computer-vision-10weeks/presentations/week09.md",
+          "kind": "2. Presentation",
+          "format": "md"
+        },
+        {
+          "title": "Presentation — Tuần 10: Hand Tracking & đồ án cuối khóa",
+          "path": "courses/computer-vision-10weeks/presentations/week10.md",
+          "kind": "2. Presentation",
+          "format": "md"
+        },
+        {
+          "title": "Exercise — Tuần 1: Nhập môn Thị giác máy tính & OpenCV",
+          "path": "courses/computer-vision-10weeks/exercises/week01.md",
+          "kind": "3. Exercise",
+          "format": "md"
+        },
+        {
+          "title": "Exercise — Tuần 2: Xử lý ảnh cơ bản",
+          "path": "courses/computer-vision-10weeks/exercises/week02.md",
+          "kind": "3. Exercise",
+          "format": "md"
+        },
+        {
+          "title": "Exercise — Tuần 3: Lọc ảnh & nhận diện biên",
+          "path": "courses/computer-vision-10weeks/exercises/week03.md",
+          "kind": "3. Exercise",
+          "format": "md"
+        },
+        {
+          "title": "Exercise — Tuần 4: Phát hiện khuôn mặt với Haar Cascades",
+          "path": "courses/computer-vision-10weeks/exercises/week04.md",
+          "kind": "3. Exercise",
+          "format": "md"
+        },
+        {
+          "title": "Exercise — Tuần 5: Mạng neural tích chập (CNN) cơ bản",
+          "path": "courses/computer-vision-10weeks/exercises/week05.md",
+          "kind": "3. Exercise",
+          "format": "md"
+        },
+        {
+          "title": "Exercise — Tuần 6: Phân loại ảnh với Keras",
+          "path": "courses/computer-vision-10weeks/exercises/week06.md",
+          "kind": "3. Exercise",
+          "format": "md"
+        },
+        {
+          "title": "Exercise — Tuần 7: Transfer Learning",
+          "path": "courses/computer-vision-10weeks/exercises/week07.md",
+          "kind": "3. Exercise",
+          "format": "md"
+        },
+        {
+          "title": "Exercise — Tuần 8: Phát hiện vật thể với YOLO",
+          "path": "courses/computer-vision-10weeks/exercises/week08.md",
+          "kind": "3. Exercise",
+          "format": "md"
+        },
+        {
+          "title": "Exercise — Tuần 9: Phân vùng ảnh",
+          "path": "courses/computer-vision-10weeks/exercises/week09.md",
+          "kind": "3. Exercise",
+          "format": "md"
+        },
+        {
+          "title": "Exercise — Tuần 10: Hand Tracking & đồ án cuối khóa",
+          "path": "courses/computer-vision-10weeks/exercises/week10.md",
+          "kind": "3. Exercise",
+          "format": "md"
+        },
+        {
+          "title": "200 code minh họa theo 10 tuần",
+          "path": "courses/computer-vision-10weeks/code/WEEKLY_EXAMPLES.md",
+          "kind": "4. Code",
+          "format": "md"
+        },
+        {
+          "title": "01_ket_qua_can_dat.py",
+          "path": "courses/computer-vision-10weeks/code/week01/01_ket_qua_can_dat.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "02_anh_so_duoi_goc_nhin_may_tinh.py",
+          "path": "courses/computer-vision-10weeks/code/week01/02_anh_so_duoi_goc_nhin_may_tinh.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "03_cai_dat.py",
+          "path": "courses/computer-vision-10weeks/code/week01/03_cai_dat.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "04_doc_va_luu_anh.py",
+          "path": "courses/computer-vision-10weeks/code/week01/04_doc_va_luu_anh.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "05_doc_webcam_theo_thoi_gian_thuc.py",
+          "path": "courses/computer-vision-10weeks/code/week01/05_doc_webcam_theo_thoi_gian_thuc.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "06_loi_thuong_gap.py",
+          "path": "courses/computer-vision-10weeks/code/week01/06_loi_thuong_gap.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "07_thu_thach_cuoi_buoi.py",
+          "path": "courses/computer-vision-10weeks/code/week01/07_thu_thach_cuoi_buoi.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "08_code_minh_hoa_cua_tuan.py",
+          "path": "courses/computer-vision-10weeks/code/week01/08_code_minh_hoa_cua_tuan.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "09_khoi_dong_va_muc_tieu_tuan_01.py",
+          "path": "courses/computer-vision-10weeks/code/week01/09_khoi_dong_va_muc_tieu_tuan_01.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "10_khai_niem_nen_tang_tuan_01.py",
+          "path": "courses/computer-vision-10weeks/code/week01/10_khai_niem_nen_tang_tuan_01.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "11_thuat_ngu_quan_trong_tuan_01.py",
+          "path": "courses/computer-vision-10weeks/code/week01/11_thuat_ngu_quan_trong_tuan_01.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "12_chuan_bi_moi_truong_tuan_01.py",
+          "path": "courses/computer-vision-10weeks/code/week01/12_chuan_bi_moi_truong_tuan_01.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "13_du_lieu_dau_vao_tuan_01.py",
+          "path": "courses/computer-vision-10weeks/code/week01/13_du_lieu_dau_vao_tuan_01.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "14_cau_truc_chuong_trinh_tuan_01.py",
+          "path": "courses/computer-vision-10weeks/code/week01/14_cau_truc_chuong_trinh_tuan_01.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "15_vi_du_co_ban_tuan_01.py",
+          "path": "courses/computer-vision-10weeks/code/week01/15_vi_du_co_ban_tuan_01.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "16_kiem_tra_du_lieu_tuan_01.py",
+          "path": "courses/computer-vision-10weeks/code/week01/16_kiem_tra_du_lieu_tuan_01.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "17_xu_ly_truong_hop_bien_tuan_01.py",
+          "path": "courses/computer-vision-10weeks/code/week01/17_xu_ly_truong_hop_bien_tuan_01.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "18_quan_sat_ket_qua_tuan_01.py",
+          "path": "courses/computer-vision-10weeks/code/week01/18_quan_sat_ket_qua_tuan_01.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "19_tach_ham_tuan_01.py",
+          "path": "courses/computer-vision-10weeks/code/week01/19_tach_ham_tuan_01.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "20_to_chuc_module_tuan_01.py",
+          "path": "courses/computer-vision-10weeks/code/week01/20_to_chuc_module_tuan_01.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "Tuần 01 — 20 code minh họa",
+          "path": "courses/computer-vision-10weeks/code/week01/README.md",
+          "kind": "4. Code",
+          "format": "md"
+        },
+        {
+          "title": "01_ket_qua_can_dat.py",
+          "path": "courses/computer-vision-10weeks/code/week02/01_ket_qua_can_dat.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "02_toa_do_anh_va_roi.py",
+          "path": "courses/computer-vision-10weeks/code/week02/02_toa_do_anh_va_roi.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "03_resize_khong_lam_meo_anh.py",
+          "path": "courses/computer-vision-10weeks/code/week02/03_resize_khong_lam_meo_anh.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "04_tach_mau_trong_khong_gian_hsv.py",
+          "path": "courses/computer-vision-10weeks/code/week02/04_tach_mau_trong_khong_gian_hsv.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "05_thuc_hanh_tong_hop.py",
+          "path": "courses/computer-vision-10weeks/code/week02/05_thuc_hanh_tong_hop.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "06_loi_thuong_gap.py",
+          "path": "courses/computer-vision-10weeks/code/week02/06_loi_thuong_gap.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "07_thu_thach.py",
+          "path": "courses/computer-vision-10weeks/code/week02/07_thu_thach.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "08_code_minh_hoa_cua_tuan.py",
+          "path": "courses/computer-vision-10weeks/code/week02/08_code_minh_hoa_cua_tuan.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "09_khoi_dong_va_muc_tieu_tuan_02.py",
+          "path": "courses/computer-vision-10weeks/code/week02/09_khoi_dong_va_muc_tieu_tuan_02.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "10_khai_niem_nen_tang_tuan_02.py",
+          "path": "courses/computer-vision-10weeks/code/week02/10_khai_niem_nen_tang_tuan_02.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "11_thuat_ngu_quan_trong_tuan_02.py",
+          "path": "courses/computer-vision-10weeks/code/week02/11_thuat_ngu_quan_trong_tuan_02.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "12_chuan_bi_moi_truong_tuan_02.py",
+          "path": "courses/computer-vision-10weeks/code/week02/12_chuan_bi_moi_truong_tuan_02.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "13_du_lieu_dau_vao_tuan_02.py",
+          "path": "courses/computer-vision-10weeks/code/week02/13_du_lieu_dau_vao_tuan_02.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "14_cau_truc_chuong_trinh_tuan_02.py",
+          "path": "courses/computer-vision-10weeks/code/week02/14_cau_truc_chuong_trinh_tuan_02.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "15_vi_du_co_ban_tuan_02.py",
+          "path": "courses/computer-vision-10weeks/code/week02/15_vi_du_co_ban_tuan_02.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "16_kiem_tra_du_lieu_tuan_02.py",
+          "path": "courses/computer-vision-10weeks/code/week02/16_kiem_tra_du_lieu_tuan_02.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "17_xu_ly_truong_hop_bien_tuan_02.py",
+          "path": "courses/computer-vision-10weeks/code/week02/17_xu_ly_truong_hop_bien_tuan_02.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "18_quan_sat_ket_qua_tuan_02.py",
+          "path": "courses/computer-vision-10weeks/code/week02/18_quan_sat_ket_qua_tuan_02.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "19_tach_ham_tuan_02.py",
+          "path": "courses/computer-vision-10weeks/code/week02/19_tach_ham_tuan_02.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "20_to_chuc_module_tuan_02.py",
+          "path": "courses/computer-vision-10weeks/code/week02/20_to_chuc_module_tuan_02.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "Tuần 02 — 20 code minh họa",
+          "path": "courses/computer-vision-10weeks/code/week02/README.md",
+          "kind": "4. Code",
+          "format": "md"
+        },
+        {
+          "title": "01_ket_qua_can_dat.py",
+          "path": "courses/computer-vision-10weeks/code/week03/01_ket_qua_can_dat.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "02_tu_nhieu_den_bien.py",
+          "path": "courses/computer-vision-10weeks/code/week03/02_tu_nhieu_den_bien.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "03_so_sanh_sobel_theo_hai_huong.py",
+          "path": "courses/computer-vision-10weeks/code/week03/03_so_sanh_sobel_theo_hai_huong.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "04_doan_ma_thu_nhieu_muc_nguong.py",
+          "path": "courses/computer-vision-10weeks/code/week03/04_doan_ma_thu_nhieu_muc_nguong.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "05_loi_thuong_gap.py",
+          "path": "courses/computer-vision-10weeks/code/week03/05_loi_thuong_gap.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "06_thu_thach.py",
+          "path": "courses/computer-vision-10weeks/code/week03/06_thu_thach.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "07_code_minh_hoa_cua_tuan.py",
+          "path": "courses/computer-vision-10weeks/code/week03/07_code_minh_hoa_cua_tuan.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "08_khoi_dong_va_muc_tieu_tuan_03.py",
+          "path": "courses/computer-vision-10weeks/code/week03/08_khoi_dong_va_muc_tieu_tuan_03.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "09_khai_niem_nen_tang_tuan_03.py",
+          "path": "courses/computer-vision-10weeks/code/week03/09_khai_niem_nen_tang_tuan_03.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "10_thuat_ngu_quan_trong_tuan_03.py",
+          "path": "courses/computer-vision-10weeks/code/week03/10_thuat_ngu_quan_trong_tuan_03.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "11_chuan_bi_moi_truong_tuan_03.py",
+          "path": "courses/computer-vision-10weeks/code/week03/11_chuan_bi_moi_truong_tuan_03.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "12_du_lieu_dau_vao_tuan_03.py",
+          "path": "courses/computer-vision-10weeks/code/week03/12_du_lieu_dau_vao_tuan_03.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "13_cau_truc_chuong_trinh_tuan_03.py",
+          "path": "courses/computer-vision-10weeks/code/week03/13_cau_truc_chuong_trinh_tuan_03.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "14_vi_du_co_ban_tuan_03.py",
+          "path": "courses/computer-vision-10weeks/code/week03/14_vi_du_co_ban_tuan_03.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "15_kiem_tra_du_lieu_tuan_03.py",
+          "path": "courses/computer-vision-10weeks/code/week03/15_kiem_tra_du_lieu_tuan_03.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "16_xu_ly_truong_hop_bien_tuan_03.py",
+          "path": "courses/computer-vision-10weeks/code/week03/16_xu_ly_truong_hop_bien_tuan_03.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "17_quan_sat_ket_qua_tuan_03.py",
+          "path": "courses/computer-vision-10weeks/code/week03/17_quan_sat_ket_qua_tuan_03.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "18_tach_ham_tuan_03.py",
+          "path": "courses/computer-vision-10weeks/code/week03/18_tach_ham_tuan_03.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "19_to_chuc_module_tuan_03.py",
+          "path": "courses/computer-vision-10weeks/code/week03/19_to_chuc_module_tuan_03.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "20_ghi_log_va_debug_tuan_03.py",
+          "path": "courses/computer-vision-10weeks/code/week03/20_ghi_log_va_debug_tuan_03.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "Tuần 03 — 20 code minh họa",
+          "path": "courses/computer-vision-10weeks/code/week03/README.md",
+          "kind": "4. Code",
+          "format": "md"
+        },
+        {
+          "title": "01_ket_qua_can_dat.py",
+          "path": "courses/computer-vision-10weeks/code/week04/01_ket_qua_can_dat.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "02_nguyen_ly_ngan_gon.py",
+          "path": "courses/computer-vision-10weeks/code/week04/02_nguyen_ly_ngan_gon.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "03_phat_hien_tren_webcam.py",
+          "path": "courses/computer-vision-10weeks/code/week04/03_phat_hien_tren_webcam.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "04_hieu_tham_so.py",
+          "path": "courses/computer-vision-10weeks/code/week04/04_hieu_tham_so.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "05_danh_gia_thay_vi_chi_nhin_thay_chay.py",
+          "path": "courses/computer-vision-10weeks/code/week04/05_danh_gia_thay_vi_chi_nhin_thay_chay.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "06_quyen_rieng_tu.py",
+          "path": "courses/computer-vision-10weeks/code/week04/06_quyen_rieng_tu.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "07_thu_thach.py",
+          "path": "courses/computer-vision-10weeks/code/week04/07_thu_thach.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "08_code_minh_hoa_cua_tuan.py",
+          "path": "courses/computer-vision-10weeks/code/week04/08_code_minh_hoa_cua_tuan.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "09_khoi_dong_va_muc_tieu_tuan_04.py",
+          "path": "courses/computer-vision-10weeks/code/week04/09_khoi_dong_va_muc_tieu_tuan_04.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "10_khai_niem_nen_tang_tuan_04.py",
+          "path": "courses/computer-vision-10weeks/code/week04/10_khai_niem_nen_tang_tuan_04.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "11_thuat_ngu_quan_trong_tuan_04.py",
+          "path": "courses/computer-vision-10weeks/code/week04/11_thuat_ngu_quan_trong_tuan_04.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "12_chuan_bi_moi_truong_tuan_04.py",
+          "path": "courses/computer-vision-10weeks/code/week04/12_chuan_bi_moi_truong_tuan_04.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "13_du_lieu_dau_vao_tuan_04.py",
+          "path": "courses/computer-vision-10weeks/code/week04/13_du_lieu_dau_vao_tuan_04.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "14_cau_truc_chuong_trinh_tuan_04.py",
+          "path": "courses/computer-vision-10weeks/code/week04/14_cau_truc_chuong_trinh_tuan_04.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "15_vi_du_co_ban_tuan_04.py",
+          "path": "courses/computer-vision-10weeks/code/week04/15_vi_du_co_ban_tuan_04.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "16_kiem_tra_du_lieu_tuan_04.py",
+          "path": "courses/computer-vision-10weeks/code/week04/16_kiem_tra_du_lieu_tuan_04.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "17_xu_ly_truong_hop_bien_tuan_04.py",
+          "path": "courses/computer-vision-10weeks/code/week04/17_xu_ly_truong_hop_bien_tuan_04.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "18_quan_sat_ket_qua_tuan_04.py",
+          "path": "courses/computer-vision-10weeks/code/week04/18_quan_sat_ket_qua_tuan_04.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "19_tach_ham_tuan_04.py",
+          "path": "courses/computer-vision-10weeks/code/week04/19_tach_ham_tuan_04.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "20_to_chuc_module_tuan_04.py",
+          "path": "courses/computer-vision-10weeks/code/week04/20_to_chuc_module_tuan_04.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "Tuần 04 — 20 code minh họa",
+          "path": "courses/computer-vision-10weeks/code/week04/README.md",
+          "kind": "4. Code",
+          "format": "md"
+        },
+        {
+          "title": "01_ket_qua_can_dat.py",
+          "path": "courses/computer-vision-10weeks/code/week05/01_ket_qua_can_dat.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "02_cnn_hoc_gi.py",
+          "path": "courses/computer-vision-10weeks/code/week05/02_cnn_hoc_gi.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "03_xay_dung_mo_hinh.py",
+          "path": "courses/computer-vision-10weeks/code/week05/03_xay_dung_mo_hinh.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "04_kiem_tra_forward_pass_truoc_khi_train.py",
+          "path": "courses/computer-vision-10weeks/code/week05/04_kiem_tra_forward_pass_truoc_khi_train.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "05_overfitting_va_cach_theo_doi.py",
+          "path": "courses/computer-vision-10weeks/code/week05/05_overfitting_va_cach_theo_doi.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "06_thu_thach.py",
+          "path": "courses/computer-vision-10weeks/code/week05/06_thu_thach.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "07_code_minh_hoa_cua_tuan.py",
+          "path": "courses/computer-vision-10weeks/code/week05/07_code_minh_hoa_cua_tuan.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "08_khoi_dong_va_muc_tieu_tuan_05.py",
+          "path": "courses/computer-vision-10weeks/code/week05/08_khoi_dong_va_muc_tieu_tuan_05.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "09_khai_niem_nen_tang_tuan_05.py",
+          "path": "courses/computer-vision-10weeks/code/week05/09_khai_niem_nen_tang_tuan_05.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "10_thuat_ngu_quan_trong_tuan_05.py",
+          "path": "courses/computer-vision-10weeks/code/week05/10_thuat_ngu_quan_trong_tuan_05.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "11_chuan_bi_moi_truong_tuan_05.py",
+          "path": "courses/computer-vision-10weeks/code/week05/11_chuan_bi_moi_truong_tuan_05.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "12_du_lieu_dau_vao_tuan_05.py",
+          "path": "courses/computer-vision-10weeks/code/week05/12_du_lieu_dau_vao_tuan_05.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "13_cau_truc_chuong_trinh_tuan_05.py",
+          "path": "courses/computer-vision-10weeks/code/week05/13_cau_truc_chuong_trinh_tuan_05.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "14_vi_du_co_ban_tuan_05.py",
+          "path": "courses/computer-vision-10weeks/code/week05/14_vi_du_co_ban_tuan_05.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "15_kiem_tra_du_lieu_tuan_05.py",
+          "path": "courses/computer-vision-10weeks/code/week05/15_kiem_tra_du_lieu_tuan_05.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "16_xu_ly_truong_hop_bien_tuan_05.py",
+          "path": "courses/computer-vision-10weeks/code/week05/16_xu_ly_truong_hop_bien_tuan_05.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "17_quan_sat_ket_qua_tuan_05.py",
+          "path": "courses/computer-vision-10weeks/code/week05/17_quan_sat_ket_qua_tuan_05.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "18_tach_ham_tuan_05.py",
+          "path": "courses/computer-vision-10weeks/code/week05/18_tach_ham_tuan_05.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "19_to_chuc_module_tuan_05.py",
+          "path": "courses/computer-vision-10weeks/code/week05/19_to_chuc_module_tuan_05.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "20_ghi_log_va_debug_tuan_05.py",
+          "path": "courses/computer-vision-10weeks/code/week05/20_ghi_log_va_debug_tuan_05.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "Tuần 05 — 20 code minh họa",
+          "path": "courses/computer-vision-10weeks/code/week05/README.md",
+          "kind": "4. Code",
+          "format": "md"
+        },
+        {
+          "title": "01_ket_qua_can_dat.py",
+          "path": "courses/computer-vision-10weeks/code/week06/01_ket_qua_can_dat.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "02_pipeline_hoan_chinh.py",
+          "path": "courses/computer-vision-10weeks/code/week06/02_pipeline_hoan_chinh.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "03_confusion_matrix.py",
+          "path": "courses/computer-vision-10weeks/code/week06/03_confusion_matrix.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "04_loi_thuong_gap.py",
+          "path": "courses/computer-vision-10weeks/code/week06/04_loi_thuong_gap.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "05_thu_thach.py",
+          "path": "courses/computer-vision-10weeks/code/week06/05_thu_thach.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "06_code_minh_hoa_cua_tuan.py",
+          "path": "courses/computer-vision-10weeks/code/week06/06_code_minh_hoa_cua_tuan.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "07_khoi_dong_va_muc_tieu_tuan_06.py",
+          "path": "courses/computer-vision-10weeks/code/week06/07_khoi_dong_va_muc_tieu_tuan_06.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "08_khai_niem_nen_tang_tuan_06.py",
+          "path": "courses/computer-vision-10weeks/code/week06/08_khai_niem_nen_tang_tuan_06.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "09_thuat_ngu_quan_trong_tuan_06.py",
+          "path": "courses/computer-vision-10weeks/code/week06/09_thuat_ngu_quan_trong_tuan_06.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "10_chuan_bi_moi_truong_tuan_06.py",
+          "path": "courses/computer-vision-10weeks/code/week06/10_chuan_bi_moi_truong_tuan_06.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "11_du_lieu_dau_vao_tuan_06.py",
+          "path": "courses/computer-vision-10weeks/code/week06/11_du_lieu_dau_vao_tuan_06.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "12_cau_truc_chuong_trinh_tuan_06.py",
+          "path": "courses/computer-vision-10weeks/code/week06/12_cau_truc_chuong_trinh_tuan_06.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "13_vi_du_co_ban_tuan_06.py",
+          "path": "courses/computer-vision-10weeks/code/week06/13_vi_du_co_ban_tuan_06.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "14_kiem_tra_du_lieu_tuan_06.py",
+          "path": "courses/computer-vision-10weeks/code/week06/14_kiem_tra_du_lieu_tuan_06.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "15_xu_ly_truong_hop_bien_tuan_06.py",
+          "path": "courses/computer-vision-10weeks/code/week06/15_xu_ly_truong_hop_bien_tuan_06.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "16_quan_sat_ket_qua_tuan_06.py",
+          "path": "courses/computer-vision-10weeks/code/week06/16_quan_sat_ket_qua_tuan_06.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "17_tach_ham_tuan_06.py",
+          "path": "courses/computer-vision-10weeks/code/week06/17_tach_ham_tuan_06.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "18_to_chuc_module_tuan_06.py",
+          "path": "courses/computer-vision-10weeks/code/week06/18_to_chuc_module_tuan_06.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "19_ghi_log_va_debug_tuan_06.py",
+          "path": "courses/computer-vision-10weeks/code/week06/19_ghi_log_va_debug_tuan_06.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "20_kiem_thu_don_vi_tuan_06.py",
+          "path": "courses/computer-vision-10weeks/code/week06/20_kiem_thu_don_vi_tuan_06.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "Tuần 06 — 20 code minh họa",
+          "path": "courses/computer-vision-10weeks/code/week06/README.md",
+          "kind": "4. Code",
+          "format": "md"
+        },
+        {
+          "title": "01_ket_qua_can_dat.py",
+          "path": "courses/computer-vision-10weeks/code/week07/01_ket_qua_can_dat.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "02_khi_nao_nen_dung.py",
+          "path": "courses/computer-vision-10weeks/code/week07/02_khi_nao_nen_dung.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "03_giai_doan_1_dong_bang_backbone.py",
+          "path": "courses/computer-vision-10weeks/code/week07/03_giai_doan_1_dong_bang_backbone.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "04_giai_doan_2_fine_tune_cac_tang_cuoi.py",
+          "path": "courses/computer-vision-10weeks/code/week07/04_giai_doan_2_fine_tune_cac_tang_cuoi.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "05_loi_thuong_gap.py",
+          "path": "courses/computer-vision-10weeks/code/week07/05_loi_thuong_gap.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "06_thu_thach.py",
+          "path": "courses/computer-vision-10weeks/code/week07/06_thu_thach.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "07_code_minh_hoa_cua_tuan.py",
+          "path": "courses/computer-vision-10weeks/code/week07/07_code_minh_hoa_cua_tuan.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "08_khoi_dong_va_muc_tieu_tuan_07.py",
+          "path": "courses/computer-vision-10weeks/code/week07/08_khoi_dong_va_muc_tieu_tuan_07.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "09_khai_niem_nen_tang_tuan_07.py",
+          "path": "courses/computer-vision-10weeks/code/week07/09_khai_niem_nen_tang_tuan_07.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "10_thuat_ngu_quan_trong_tuan_07.py",
+          "path": "courses/computer-vision-10weeks/code/week07/10_thuat_ngu_quan_trong_tuan_07.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "11_chuan_bi_moi_truong_tuan_07.py",
+          "path": "courses/computer-vision-10weeks/code/week07/11_chuan_bi_moi_truong_tuan_07.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "12_du_lieu_dau_vao_tuan_07.py",
+          "path": "courses/computer-vision-10weeks/code/week07/12_du_lieu_dau_vao_tuan_07.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "13_cau_truc_chuong_trinh_tuan_07.py",
+          "path": "courses/computer-vision-10weeks/code/week07/13_cau_truc_chuong_trinh_tuan_07.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "14_vi_du_co_ban_tuan_07.py",
+          "path": "courses/computer-vision-10weeks/code/week07/14_vi_du_co_ban_tuan_07.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "15_kiem_tra_du_lieu_tuan_07.py",
+          "path": "courses/computer-vision-10weeks/code/week07/15_kiem_tra_du_lieu_tuan_07.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "16_xu_ly_truong_hop_bien_tuan_07.py",
+          "path": "courses/computer-vision-10weeks/code/week07/16_xu_ly_truong_hop_bien_tuan_07.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "17_quan_sat_ket_qua_tuan_07.py",
+          "path": "courses/computer-vision-10weeks/code/week07/17_quan_sat_ket_qua_tuan_07.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "18_tach_ham_tuan_07.py",
+          "path": "courses/computer-vision-10weeks/code/week07/18_tach_ham_tuan_07.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "19_to_chuc_module_tuan_07.py",
+          "path": "courses/computer-vision-10weeks/code/week07/19_to_chuc_module_tuan_07.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "20_ghi_log_va_debug_tuan_07.py",
+          "path": "courses/computer-vision-10weeks/code/week07/20_ghi_log_va_debug_tuan_07.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "Tuần 07 — 20 code minh họa",
+          "path": "courses/computer-vision-10weeks/code/week07/README.md",
+          "kind": "4. Code",
+          "format": "md"
+        },
+        {
+          "title": "01_ket_qua_can_dat.py",
+          "path": "courses/computer-vision-10weeks/code/week08/01_ket_qua_can_dat.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "02_khai_niem.py",
+          "path": "courses/computer-vision-10weeks/code/week08/02_khai_niem.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "03_cai_dat_va_suy_luan.py",
+          "path": "courses/computer-vision-10weeks/code/week08/03_cai_dat_va_suy_luan.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "04_dem_doi_tuong_theo_lop.py",
+          "path": "courses/computer-vision-10weeks/code/week08/04_dem_doi_tuong_theo_lop.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "05_chuan_du_lieu_tu_huan_luyen.py",
+          "path": "courses/computer-vision-10weeks/code/week08/05_chuan_du_lieu_tu_huan_luyen.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "06_thu_thach.py",
+          "path": "courses/computer-vision-10weeks/code/week08/06_thu_thach.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "07_code_minh_hoa_cua_tuan.py",
+          "path": "courses/computer-vision-10weeks/code/week08/07_code_minh_hoa_cua_tuan.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "08_khoi_dong_va_muc_tieu_tuan_08.py",
+          "path": "courses/computer-vision-10weeks/code/week08/08_khoi_dong_va_muc_tieu_tuan_08.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "09_khai_niem_nen_tang_tuan_08.py",
+          "path": "courses/computer-vision-10weeks/code/week08/09_khai_niem_nen_tang_tuan_08.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "10_thuat_ngu_quan_trong_tuan_08.py",
+          "path": "courses/computer-vision-10weeks/code/week08/10_thuat_ngu_quan_trong_tuan_08.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "11_chuan_bi_moi_truong_tuan_08.py",
+          "path": "courses/computer-vision-10weeks/code/week08/11_chuan_bi_moi_truong_tuan_08.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "12_du_lieu_dau_vao_tuan_08.py",
+          "path": "courses/computer-vision-10weeks/code/week08/12_du_lieu_dau_vao_tuan_08.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "13_cau_truc_chuong_trinh_tuan_08.py",
+          "path": "courses/computer-vision-10weeks/code/week08/13_cau_truc_chuong_trinh_tuan_08.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "14_vi_du_co_ban_tuan_08.py",
+          "path": "courses/computer-vision-10weeks/code/week08/14_vi_du_co_ban_tuan_08.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "15_kiem_tra_du_lieu_tuan_08.py",
+          "path": "courses/computer-vision-10weeks/code/week08/15_kiem_tra_du_lieu_tuan_08.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "16_xu_ly_truong_hop_bien_tuan_08.py",
+          "path": "courses/computer-vision-10weeks/code/week08/16_xu_ly_truong_hop_bien_tuan_08.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "17_quan_sat_ket_qua_tuan_08.py",
+          "path": "courses/computer-vision-10weeks/code/week08/17_quan_sat_ket_qua_tuan_08.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "18_tach_ham_tuan_08.py",
+          "path": "courses/computer-vision-10weeks/code/week08/18_tach_ham_tuan_08.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "19_to_chuc_module_tuan_08.py",
+          "path": "courses/computer-vision-10weeks/code/week08/19_to_chuc_module_tuan_08.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "20_ghi_log_va_debug_tuan_08.py",
+          "path": "courses/computer-vision-10weeks/code/week08/20_ghi_log_va_debug_tuan_08.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "Tuần 08 — 20 code minh họa",
+          "path": "courses/computer-vision-10weeks/code/week08/README.md",
+          "kind": "4. Code",
+          "format": "md"
+        },
+        {
+          "title": "01_ket_qua_can_dat.py",
+          "path": "courses/computer-vision-10weeks/code/week09/01_ket_qua_can_dat.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "02_tu_pixel_den_mask.py",
+          "path": "courses/computer-vision-10weeks/code/week09/02_tu_pixel_den_mask.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "03_tao_va_lam_sach_mask.py",
+          "path": "courses/computer-vision-10weeks/code/week09/03_tao_va_lam_sach_mask.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "04_ghep_nen_bang_alpha_blending.py",
+          "path": "courses/computer-vision-10weeks/code/week09/04_ghep_nen_bang_alpha_blending.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "05_danh_gia_mask.py",
+          "path": "courses/computer-vision-10weeks/code/week09/05_danh_gia_mask.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "06_loi_thuong_gap.py",
+          "path": "courses/computer-vision-10weeks/code/week09/06_loi_thuong_gap.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "07_thu_thach.py",
+          "path": "courses/computer-vision-10weeks/code/week09/07_thu_thach.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "08_code_minh_hoa_cua_tuan.py",
+          "path": "courses/computer-vision-10weeks/code/week09/08_code_minh_hoa_cua_tuan.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "09_khoi_dong_va_muc_tieu_tuan_09.py",
+          "path": "courses/computer-vision-10weeks/code/week09/09_khoi_dong_va_muc_tieu_tuan_09.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "10_khai_niem_nen_tang_tuan_09.py",
+          "path": "courses/computer-vision-10weeks/code/week09/10_khai_niem_nen_tang_tuan_09.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "11_thuat_ngu_quan_trong_tuan_09.py",
+          "path": "courses/computer-vision-10weeks/code/week09/11_thuat_ngu_quan_trong_tuan_09.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "12_chuan_bi_moi_truong_tuan_09.py",
+          "path": "courses/computer-vision-10weeks/code/week09/12_chuan_bi_moi_truong_tuan_09.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "13_du_lieu_dau_vao_tuan_09.py",
+          "path": "courses/computer-vision-10weeks/code/week09/13_du_lieu_dau_vao_tuan_09.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "14_cau_truc_chuong_trinh_tuan_09.py",
+          "path": "courses/computer-vision-10weeks/code/week09/14_cau_truc_chuong_trinh_tuan_09.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "15_vi_du_co_ban_tuan_09.py",
+          "path": "courses/computer-vision-10weeks/code/week09/15_vi_du_co_ban_tuan_09.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "16_kiem_tra_du_lieu_tuan_09.py",
+          "path": "courses/computer-vision-10weeks/code/week09/16_kiem_tra_du_lieu_tuan_09.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "17_xu_ly_truong_hop_bien_tuan_09.py",
+          "path": "courses/computer-vision-10weeks/code/week09/17_xu_ly_truong_hop_bien_tuan_09.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "18_quan_sat_ket_qua_tuan_09.py",
+          "path": "courses/computer-vision-10weeks/code/week09/18_quan_sat_ket_qua_tuan_09.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "19_tach_ham_tuan_09.py",
+          "path": "courses/computer-vision-10weeks/code/week09/19_tach_ham_tuan_09.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "20_to_chuc_module_tuan_09.py",
+          "path": "courses/computer-vision-10weeks/code/week09/20_to_chuc_module_tuan_09.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "Tuần 09 — 20 code minh họa",
+          "path": "courses/computer-vision-10weeks/code/week09/README.md",
+          "kind": "4. Code",
+          "format": "md"
+        },
+        {
+          "title": "01_ket_qua_can_dat.py",
+          "path": "courses/computer-vision-10weeks/code/week10/01_ket_qua_can_dat.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "02_cai_dat.py",
+          "path": "courses/computer-vision-10weeks/code/week10/02_cai_dat.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "03_dieu_khien_con_tro_ao_bang_dau_ngon_tro.py",
+          "path": "courses/computer-vision-10weeks/code/week10/03_dieu_khien_con_tro_ao_bang_dau_ngon_tro.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "04_goi_y_do_an.py",
+          "path": "courses/computer-vision-10weeks/code/week10/04_goi_y_do_an.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "05_tieu_chi_nghiem_thu_100_diem.py",
+          "path": "courses/computer-vision-10weeks/code/week10/05_tieu_chi_nghiem_thu_100_diem.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "06_checklist_truoc_khi_demo.py",
+          "path": "courses/computer-vision-10weeks/code/week10/06_checklist_truoc_khi_demo.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "07_thu_thach_cuoi_khoa.py",
+          "path": "courses/computer-vision-10weeks/code/week10/07_thu_thach_cuoi_khoa.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "08_code_minh_hoa_cua_tuan.py",
+          "path": "courses/computer-vision-10weeks/code/week10/08_code_minh_hoa_cua_tuan.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "09_khoi_dong_va_muc_tieu_tuan_10.py",
+          "path": "courses/computer-vision-10weeks/code/week10/09_khoi_dong_va_muc_tieu_tuan_10.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "10_khai_niem_nen_tang_tuan_10.py",
+          "path": "courses/computer-vision-10weeks/code/week10/10_khai_niem_nen_tang_tuan_10.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "11_thuat_ngu_quan_trong_tuan_10.py",
+          "path": "courses/computer-vision-10weeks/code/week10/11_thuat_ngu_quan_trong_tuan_10.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "12_chuan_bi_moi_truong_tuan_10.py",
+          "path": "courses/computer-vision-10weeks/code/week10/12_chuan_bi_moi_truong_tuan_10.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "13_du_lieu_dau_vao_tuan_10.py",
+          "path": "courses/computer-vision-10weeks/code/week10/13_du_lieu_dau_vao_tuan_10.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "14_cau_truc_chuong_trinh_tuan_10.py",
+          "path": "courses/computer-vision-10weeks/code/week10/14_cau_truc_chuong_trinh_tuan_10.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "15_vi_du_co_ban_tuan_10.py",
+          "path": "courses/computer-vision-10weeks/code/week10/15_vi_du_co_ban_tuan_10.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "16_kiem_tra_du_lieu_tuan_10.py",
+          "path": "courses/computer-vision-10weeks/code/week10/16_kiem_tra_du_lieu_tuan_10.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "17_xu_ly_truong_hop_bien_tuan_10.py",
+          "path": "courses/computer-vision-10weeks/code/week10/17_xu_ly_truong_hop_bien_tuan_10.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "18_quan_sat_ket_qua_tuan_10.py",
+          "path": "courses/computer-vision-10weeks/code/week10/18_quan_sat_ket_qua_tuan_10.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "19_tach_ham_tuan_10.py",
+          "path": "courses/computer-vision-10weeks/code/week10/19_tach_ham_tuan_10.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "20_to_chuc_module_tuan_10.py",
+          "path": "courses/computer-vision-10weeks/code/week10/20_to_chuc_module_tuan_10.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "Tuần 10 — 20 code minh họa",
+          "path": "courses/computer-vision-10weeks/code/week10/README.md",
+          "kind": "4. Code",
+          "format": "md"
+        }
+      ],
+      "lessonCount": 10
+    },
+    {
+      "id": "data-science-10weeks",
+      "title": "Khoá Học: Khoa Học Dữ Liệu Nền Tảng / Course: Foundational Data Science (NumPy & Pandas)",
+      "documents": [
+        {
+          "title": "Khoá Học: Khoa Học Dữ Liệu Nền Tảng / Course: Foundational Data Science (NumPy & Pandas)",
+          "path": "courses/data-science-10weeks/INDEX.md",
+          "kind": "1. Lesson",
+          "format": "md"
+        },
+        {
+          "title": "Lịch Trình Chi Tiết 10 Tuần Khoa Học Dữ Liệu / 10-Week Data Science Schedule",
+          "path": "courses/data-science-10weeks/schedule.md",
+          "kind": "1. Lesson",
+          "format": "md"
+        },
+        {
+          "title": "Tuần 1: Môi trường Phân tích Dữ liệu / Data Science Environment",
+          "path": "courses/data-science-10weeks/lessons/week01.md",
+          "kind": "1. Lesson",
+          "format": "md"
+        },
+        {
+          "title": "Tuần 2: Mảng NumPy Cơ bản / NumPy Arrays Foundations",
+          "path": "courses/data-science-10weeks/lessons/week02.md",
+          "kind": "1. Lesson",
+          "format": "md"
+        },
+        {
+          "title": "Tuần 3: Phép toán số học Vector / Vectorized Array Computation",
+          "path": "courses/data-science-10weeks/lessons/week03.md",
+          "kind": "1. Lesson",
+          "format": "md"
+        },
+        {
+          "title": "Tuần 4: Cắt lát & Lọc mảng nâng cao / Slicing & Boolean Indexing",
+          "path": "courses/data-science-10weeks/lessons/week04.md",
+          "kind": "1. Lesson",
+          "format": "md"
+        },
+        {
+          "title": "Tuần 5: Giới thiệu Pandas & DataFrames / Introduction to Pandas",
+          "path": "courses/data-science-10weeks/lessons/week05.md",
+          "kind": "1. Lesson",
+          "format": "md"
+        },
+        {
+          "title": "Tuần 6: Chọn & Phân nhóm Dữ liệu / Indexing & Grouping Data",
+          "path": "courses/data-science-10weeks/lessons/week06.md",
+          "kind": "1. Lesson",
+          "format": "md"
+        },
+        {
+          "title": "Tuần 7: Làm sạch dữ liệu bẩn / Data Cleaning & Wrangling",
+          "path": "courses/data-science-10weeks/lessons/week07.md",
+          "kind": "1. Lesson",
+          "format": "md"
+        },
+        {
+          "title": "Tuần 8: Ghép bảng & Biến đổi dữ liệu / Merging & Transforming Data",
+          "path": "courses/data-science-10weeks/lessons/week08.md",
+          "kind": "1. Lesson",
+          "format": "md"
+        },
+        {
+          "title": "Tuần 9: Trực quan hóa dữ liệu trực quan / Data Visualization",
+          "path": "courses/data-science-10weeks/lessons/week09.md",
+          "kind": "1. Lesson",
+          "format": "md"
+        },
+        {
+          "title": "Tuần 10: Học máy Cơ bản với Scikit-Learn / Intro to Machine Learning",
+          "path": "courses/data-science-10weeks/lessons/week10.md",
+          "kind": "1. Lesson",
+          "format": "md"
+        },
+        {
+          "title": "Presentation — Tuần 1: Môi trường Phân tích Dữ liệu / Data Science Environment",
+          "path": "courses/data-science-10weeks/presentations/week01.md",
+          "kind": "2. Presentation",
+          "format": "md"
+        },
+        {
+          "title": "Presentation — Tuần 2: Mảng NumPy Cơ bản / NumPy Arrays Foundations",
+          "path": "courses/data-science-10weeks/presentations/week02.md",
+          "kind": "2. Presentation",
+          "format": "md"
+        },
+        {
+          "title": "Presentation — Tuần 3: Phép toán số học Vector / Vectorized Array Computation",
+          "path": "courses/data-science-10weeks/presentations/week03.md",
+          "kind": "2. Presentation",
+          "format": "md"
+        },
+        {
+          "title": "Presentation — Tuần 4: Cắt lát & Lọc mảng nâng cao / Slicing & Boolean Indexing",
+          "path": "courses/data-science-10weeks/presentations/week04.md",
+          "kind": "2. Presentation",
+          "format": "md"
+        },
+        {
+          "title": "Presentation — Tuần 5: Giới thiệu Pandas & DataFrames / Introduction to Pandas",
+          "path": "courses/data-science-10weeks/presentations/week05.md",
+          "kind": "2. Presentation",
+          "format": "md"
+        },
+        {
+          "title": "Presentation — Tuần 6: Chọn & Phân nhóm Dữ liệu / Indexing & Grouping Data",
+          "path": "courses/data-science-10weeks/presentations/week06.md",
+          "kind": "2. Presentation",
+          "format": "md"
+        },
+        {
+          "title": "Presentation — Tuần 7: Làm sạch dữ liệu bẩn / Data Cleaning & Wrangling",
+          "path": "courses/data-science-10weeks/presentations/week07.md",
+          "kind": "2. Presentation",
+          "format": "md"
+        },
+        {
+          "title": "Presentation — Tuần 8: Ghép bảng & Biến đổi dữ liệu / Merging & Transforming Data",
+          "path": "courses/data-science-10weeks/presentations/week08.md",
+          "kind": "2. Presentation",
+          "format": "md"
+        },
+        {
+          "title": "Presentation — Tuần 9: Trực quan hóa dữ liệu trực quan / Data Visualization",
+          "path": "courses/data-science-10weeks/presentations/week09.md",
+          "kind": "2. Presentation",
+          "format": "md"
+        },
+        {
+          "title": "Presentation — Tuần 10: Học máy Cơ bản với Scikit-Learn / Intro to Machine Learning",
+          "path": "courses/data-science-10weeks/presentations/week10.md",
+          "kind": "2. Presentation",
+          "format": "md"
+        },
+        {
+          "title": "Exercise — Tuần 1: Môi trường Phân tích Dữ liệu / Data Science Environment",
+          "path": "courses/data-science-10weeks/exercises/week01.md",
+          "kind": "3. Exercise",
+          "format": "md"
+        },
+        {
+          "title": "Exercise — Tuần 2: Mảng NumPy Cơ bản / NumPy Arrays Foundations",
+          "path": "courses/data-science-10weeks/exercises/week02.md",
+          "kind": "3. Exercise",
+          "format": "md"
+        },
+        {
+          "title": "Exercise — Tuần 3: Phép toán số học Vector / Vectorized Array Computation",
+          "path": "courses/data-science-10weeks/exercises/week03.md",
+          "kind": "3. Exercise",
+          "format": "md"
+        },
+        {
+          "title": "Exercise — Tuần 4: Cắt lát & Lọc mảng nâng cao / Slicing & Boolean Indexing",
+          "path": "courses/data-science-10weeks/exercises/week04.md",
+          "kind": "3. Exercise",
+          "format": "md"
+        },
+        {
+          "title": "Exercise — Tuần 5: Giới thiệu Pandas & DataFrames / Introduction to Pandas",
+          "path": "courses/data-science-10weeks/exercises/week05.md",
+          "kind": "3. Exercise",
+          "format": "md"
+        },
+        {
+          "title": "Exercise — Tuần 6: Chọn & Phân nhóm Dữ liệu / Indexing & Grouping Data",
+          "path": "courses/data-science-10weeks/exercises/week06.md",
+          "kind": "3. Exercise",
+          "format": "md"
+        },
+        {
+          "title": "Exercise — Tuần 7: Làm sạch dữ liệu bẩn / Data Cleaning & Wrangling",
+          "path": "courses/data-science-10weeks/exercises/week07.md",
+          "kind": "3. Exercise",
+          "format": "md"
+        },
+        {
+          "title": "Exercise — Tuần 8: Ghép bảng & Biến đổi dữ liệu / Merging & Transforming Data",
+          "path": "courses/data-science-10weeks/exercises/week08.md",
+          "kind": "3. Exercise",
+          "format": "md"
+        },
+        {
+          "title": "Exercise — Tuần 9: Trực quan hóa dữ liệu trực quan / Data Visualization",
+          "path": "courses/data-science-10weeks/exercises/week09.md",
+          "kind": "3. Exercise",
+          "format": "md"
+        },
+        {
+          "title": "Exercise — Tuần 10: Học máy Cơ bản với Scikit-Learn / Intro to Machine Learning",
+          "path": "courses/data-science-10weeks/exercises/week10.md",
+          "kind": "3. Exercise",
+          "format": "md"
+        },
+        {
+          "title": "200 code minh họa theo 10 tuần",
+          "path": "courses/data-science-10weeks/code/WEEKLY_EXAMPLES.md",
+          "kind": "4. Code",
+          "format": "md"
+        },
+        {
+          "title": "output-data.csv",
+          "path": "courses/data-science-10weeks/code/data/output-data.csv",
+          "kind": "4. Code",
+          "format": "csv"
+        },
+        {
+          "title": "output-data.json",
+          "path": "courses/data-science-10weeks/code/data/output-data.json",
+          "kind": "4. Code",
+          "format": "json"
+        },
+        {
+          "title": "output-data.xlsx",
+          "path": "courses/data-science-10weeks/code/data/output-data.xlsx",
+          "kind": "4. Code",
+          "format": "xlsx"
+        },
+        {
+          "title": "sample-data.csv",
+          "path": "courses/data-science-10weeks/code/data/sample-data.csv",
+          "kind": "4. Code",
+          "format": "csv"
+        },
+        {
+          "title": "sample-data.json",
+          "path": "courses/data-science-10weeks/code/data/sample-data.json",
+          "kind": "4. Code",
+          "format": "json"
+        },
+        {
+          "title": "sample-data.sql",
+          "path": "courses/data-science-10weeks/code/data/sample-data.sql",
+          "kind": "4. Code",
+          "format": "sql"
+        },
+        {
+          "title": "sample-data.xlsx",
+          "path": "courses/data-science-10weeks/code/data/sample-data.xlsx",
+          "kind": "4. Code",
+          "format": "xlsx"
+        },
+        {
+          "title": "01_muc_tieu_objectives.py",
+          "path": "courses/data-science-10weeks/code/week01/01_muc_tieu_objectives.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "02_linh_kien_dung_cu_components_tools.py",
+          "path": "courses/data-science-10weeks/code/week01/02_linh_kien_dung_cu_components_tools.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "03_ly_thuyet_theory.py",
+          "path": "courses/data-science-10weeks/code/week01/03_ly_thuyet_theory.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "04_gioi_thieu_tong_quan_ve_moi_truong_phan_tich_du_lieu_o.py",
+          "path": "courses/data-science-10weeks/code/week01/04_gioi_thieu_tong_quan_ve_moi_truong_phan_tich_du_lieu_o.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "05_cac_chu_de_ky_thuat_chinh_key_technical_topics.py",
+          "path": "courses/data-science-10weeks/code/week01/05_cac_chu_de_ky_thuat_chinh_key_technical_topics.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "06_so_do_cau_hinh_diagram.py",
+          "path": "courses/data-science-10weeks/code/week01/06_so_do_cau_hinh_diagram.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "07_thuc_hanh_hands_on.py",
+          "path": "courses/data-science-10weeks/code/week01/07_thuc_hanh_hands_on.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "08_bai_thuc_hanh_lab_step_by_step_lab_guidelines.py",
+          "path": "courses/data-science-10weeks/code/week01/08_bai_thuc_hanh_lab_step_by_step_lab_guidelines.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "09_nhiem_vu_thuc_te_task.py",
+          "path": "courses/data-science-10weeks/code/week01/09_nhiem_vu_thuc_te_task.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "10_code_mau_code_samples.py",
+          "path": "courses/data-science-10weeks/code/week01/10_code_mau_code_samples.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "11_cau_hoi_thao_luan_discussion.py",
+          "path": "courses/data-science-10weeks/code/week01/11_cau_hoi_thao_luan_discussion.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "12_bai_ve_nha_homework.py",
+          "path": "courses/data-science-10weeks/code/week01/12_bai_ve_nha_homework.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "13_danh_gia_assessment_rubric.py",
+          "path": "courses/data-science-10weeks/code/week01/13_danh_gia_assessment_rubric.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "14_code_minh_hoa_cua_tuan.py",
+          "path": "courses/data-science-10weeks/code/week01/14_code_minh_hoa_cua_tuan.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "15_khoi_dong_va_muc_tieu_tuan_01.py",
+          "path": "courses/data-science-10weeks/code/week01/15_khoi_dong_va_muc_tieu_tuan_01.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "16_khai_niem_nen_tang_tuan_01.py",
+          "path": "courses/data-science-10weeks/code/week01/16_khai_niem_nen_tang_tuan_01.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "17_thuat_ngu_quan_trong_tuan_01.py",
+          "path": "courses/data-science-10weeks/code/week01/17_thuat_ngu_quan_trong_tuan_01.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "18_chuan_bi_moi_truong_tuan_01.py",
+          "path": "courses/data-science-10weeks/code/week01/18_chuan_bi_moi_truong_tuan_01.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "19_du_lieu_dau_vao_tuan_01.py",
+          "path": "courses/data-science-10weeks/code/week01/19_du_lieu_dau_vao_tuan_01.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "20_cau_truc_chuong_trinh_tuan_01.py",
+          "path": "courses/data-science-10weeks/code/week01/20_cau_truc_chuong_trinh_tuan_01.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "Tuần 01 — 20 code minh họa",
+          "path": "courses/data-science-10weeks/code/week01/README.md",
+          "kind": "4. Code",
+          "format": "md"
+        },
+        {
+          "title": "week01.py",
+          "path": "courses/data-science-10weeks/code/week01.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "01_muc_tieu_objectives.py",
+          "path": "courses/data-science-10weeks/code/week02/01_muc_tieu_objectives.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "02_linh_kien_dung_cu_components_tools.py",
+          "path": "courses/data-science-10weeks/code/week02/02_linh_kien_dung_cu_components_tools.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "03_ly_thuyet_theory.py",
+          "path": "courses/data-science-10weeks/code/week02/03_ly_thuyet_theory.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "04_gioi_thieu_tong_quan_ve_mang_numpy_co_ban_overview.py",
+          "path": "courses/data-science-10weeks/code/week02/04_gioi_thieu_tong_quan_ve_mang_numpy_co_ban_overview.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "05_cac_chu_de_ky_thuat_chinh_key_technical_topics.py",
+          "path": "courses/data-science-10weeks/code/week02/05_cac_chu_de_ky_thuat_chinh_key_technical_topics.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "06_so_do_cau_hinh_diagram.py",
+          "path": "courses/data-science-10weeks/code/week02/06_so_do_cau_hinh_diagram.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "07_thuc_hanh_hands_on.py",
+          "path": "courses/data-science-10weeks/code/week02/07_thuc_hanh_hands_on.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "08_bai_thuc_hanh_lab_step_by_step_lab_guidelines.py",
+          "path": "courses/data-science-10weeks/code/week02/08_bai_thuc_hanh_lab_step_by_step_lab_guidelines.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "09_nhiem_vu_thuc_te_task.py",
+          "path": "courses/data-science-10weeks/code/week02/09_nhiem_vu_thuc_te_task.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "10_code_mau_code_samples.py",
+          "path": "courses/data-science-10weeks/code/week02/10_code_mau_code_samples.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "11_cau_hoi_thao_luan_discussion.py",
+          "path": "courses/data-science-10weeks/code/week02/11_cau_hoi_thao_luan_discussion.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "12_bai_ve_nha_homework.py",
+          "path": "courses/data-science-10weeks/code/week02/12_bai_ve_nha_homework.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "13_danh_gia_assessment_rubric.py",
+          "path": "courses/data-science-10weeks/code/week02/13_danh_gia_assessment_rubric.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "14_hoc_lieu_thuc_hanh_tu_kho_numpy.py",
+          "path": "courses/data-science-10weeks/code/week02/14_hoc_lieu_thuc_hanh_tu_kho_numpy.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "15_bai_lab_cu_the.py",
+          "path": "courses/data-science-10weeks/code/week02/15_bai_lab_cu_the.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "16_noi_dung_bai_hoc_numpy_la_gi_va_dung_de_lam_gi.py",
+          "path": "courses/data-science-10weeks/code/week02/16_noi_dung_bai_hoc_numpy_la_gi_va_dung_de_lam_gi.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "17_tao_mang_1d_va_2d.py",
+          "path": "courses/data-science-10weeks/code/week02/17_tao_mang_1d_va_2d.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "18_sinh_du_lieu_va_tinh_thong_ke_nhanh.py",
+          "path": "courses/data-science-10weeks/code/week02/18_sinh_du_lieu_va_tinh_thong_ke_nhanh.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "19_kiem_tra_nhanh.py",
+          "path": "courses/data-science-10weeks/code/week02/19_kiem_tra_nhanh.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "20_code_minh_hoa_cua_tuan.py",
+          "path": "courses/data-science-10weeks/code/week02/20_code_minh_hoa_cua_tuan.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "Tuần 02 — 20 code minh họa",
+          "path": "courses/data-science-10weeks/code/week02/README.md",
+          "kind": "4. Code",
+          "format": "md"
+        },
+        {
+          "title": "week02.py",
+          "path": "courses/data-science-10weeks/code/week02.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "01_muc_tieu_objectives.py",
+          "path": "courses/data-science-10weeks/code/week03/01_muc_tieu_objectives.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "02_linh_kien_dung_cu_components_tools.py",
+          "path": "courses/data-science-10weeks/code/week03/02_linh_kien_dung_cu_components_tools.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "03_ly_thuyet_theory.py",
+          "path": "courses/data-science-10weeks/code/week03/03_ly_thuyet_theory.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "04_gioi_thieu_tong_quan_ve_phep_toan_so_hoc_vector_overvi.py",
+          "path": "courses/data-science-10weeks/code/week03/04_gioi_thieu_tong_quan_ve_phep_toan_so_hoc_vector_overvi.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "05_cac_chu_de_ky_thuat_chinh_key_technical_topics.py",
+          "path": "courses/data-science-10weeks/code/week03/05_cac_chu_de_ky_thuat_chinh_key_technical_topics.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "06_so_do_cau_hinh_diagram.py",
+          "path": "courses/data-science-10weeks/code/week03/06_so_do_cau_hinh_diagram.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "07_thuc_hanh_hands_on.py",
+          "path": "courses/data-science-10weeks/code/week03/07_thuc_hanh_hands_on.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "08_bai_thuc_hanh_lab_step_by_step_lab_guidelines.py",
+          "path": "courses/data-science-10weeks/code/week03/08_bai_thuc_hanh_lab_step_by_step_lab_guidelines.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "09_nhiem_vu_thuc_te_task.py",
+          "path": "courses/data-science-10weeks/code/week03/09_nhiem_vu_thuc_te_task.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "10_code_mau_code_samples.py",
+          "path": "courses/data-science-10weeks/code/week03/10_code_mau_code_samples.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "11_cau_hoi_thao_luan_discussion.py",
+          "path": "courses/data-science-10weeks/code/week03/11_cau_hoi_thao_luan_discussion.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "12_bai_ve_nha_homework.py",
+          "path": "courses/data-science-10weeks/code/week03/12_bai_ve_nha_homework.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "13_danh_gia_assessment_rubric.py",
+          "path": "courses/data-science-10weeks/code/week03/13_danh_gia_assessment_rubric.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "14_hoc_lieu_thuc_hanh_toan_tu_numpy.py",
+          "path": "courses/data-science-10weeks/code/week03/14_hoc_lieu_thuc_hanh_toan_tu_numpy.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "15_bai_lab_cu_the.py",
+          "path": "courses/data-science-10weeks/code/week03/15_bai_lab_cu_the.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "16_noi_dung_bai_hoc_phep_toan_vector_hoa.py",
+          "path": "courses/data-science-10weeks/code/week03/16_noi_dung_bai_hoc_phep_toan_vector_hoa.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "17_so_hoc_theo_phan_tu.py",
+          "path": "courses/data-science-10weeks/code/week03/17_so_hoc_theo_phan_tu.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "18_so_sanh_va_boolean_mask.py",
+          "path": "courses/data-science-10weeks/code/week03/18_so_sanh_va_boolean_mask.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "19_broadcasting.py",
+          "path": "courses/data-science-10weeks/code/week03/19_broadcasting.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "20_bai_tap_code.py",
+          "path": "courses/data-science-10weeks/code/week03/20_bai_tap_code.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "Tuần 03 — 20 code minh họa",
+          "path": "courses/data-science-10weeks/code/week03/README.md",
+          "kind": "4. Code",
+          "format": "md"
+        },
+        {
+          "title": "week03.py",
+          "path": "courses/data-science-10weeks/code/week03.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "01_muc_tieu_objectives.py",
+          "path": "courses/data-science-10weeks/code/week04/01_muc_tieu_objectives.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "02_linh_kien_dung_cu_components_tools.py",
+          "path": "courses/data-science-10weeks/code/week04/02_linh_kien_dung_cu_components_tools.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "03_ly_thuyet_theory.py",
+          "path": "courses/data-science-10weeks/code/week04/03_ly_thuyet_theory.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "04_gioi_thieu_tong_quan_ve_cat_lat_loc_mang_nang_cao_over.py",
+          "path": "courses/data-science-10weeks/code/week04/04_gioi_thieu_tong_quan_ve_cat_lat_loc_mang_nang_cao_over.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "05_cac_chu_de_ky_thuat_chinh_key_technical_topics.py",
+          "path": "courses/data-science-10weeks/code/week04/05_cac_chu_de_ky_thuat_chinh_key_technical_topics.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "06_so_do_cau_hinh_diagram.py",
+          "path": "courses/data-science-10weeks/code/week04/06_so_do_cau_hinh_diagram.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "07_thuc_hanh_hands_on.py",
+          "path": "courses/data-science-10weeks/code/week04/07_thuc_hanh_hands_on.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "08_bai_thuc_hanh_lab_step_by_step_lab_guidelines.py",
+          "path": "courses/data-science-10weeks/code/week04/08_bai_thuc_hanh_lab_step_by_step_lab_guidelines.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "09_nhiem_vu_thuc_te_task.py",
+          "path": "courses/data-science-10weeks/code/week04/09_nhiem_vu_thuc_te_task.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "10_code_mau_code_samples.py",
+          "path": "courses/data-science-10weeks/code/week04/10_code_mau_code_samples.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "11_cau_hoi_thao_luan_discussion.py",
+          "path": "courses/data-science-10weeks/code/week04/11_cau_hoi_thao_luan_discussion.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "12_bai_ve_nha_homework.py",
+          "path": "courses/data-science-10weeks/code/week04/12_bai_ve_nha_homework.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "13_danh_gia_assessment_rubric.py",
+          "path": "courses/data-science-10weeks/code/week04/13_danh_gia_assessment_rubric.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "14_hoc_lieu_thuc_hanh_ma_tran.py",
+          "path": "courses/data-science-10weeks/code/week04/14_hoc_lieu_thuc_hanh_ma_tran.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "15_bai_lab_cu_the.py",
+          "path": "courses/data-science-10weeks/code/week04/15_bai_lab_cu_the.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "16_noi_dung_bai_hoc_slicing_loc_va_ma_tran.py",
+          "path": "courses/data-science-10weeks/code/week04/16_noi_dung_bai_hoc_slicing_loc_va_ma_tran.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "17_cat_lat_mang.py",
+          "path": "courses/data-science-10weeks/code/week04/17_cat_lat_mang.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "18_loc_theo_dieu_kien.py",
+          "path": "courses/data-science-10weeks/code/week04/18_loc_theo_dieu_kien.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "19_nhan_ma_tran.py",
+          "path": "courses/data-science-10weeks/code/week04/19_nhan_ma_tran.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "20_sap_xep_theo_hang_va_cot.py",
+          "path": "courses/data-science-10weeks/code/week04/20_sap_xep_theo_hang_va_cot.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "Tuần 04 — 20 code minh họa",
+          "path": "courses/data-science-10weeks/code/week04/README.md",
+          "kind": "4. Code",
+          "format": "md"
+        },
+        {
+          "title": "week04.py",
+          "path": "courses/data-science-10weeks/code/week04.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "01_muc_tieu_objectives.py",
+          "path": "courses/data-science-10weeks/code/week05/01_muc_tieu_objectives.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "02_linh_kien_dung_cu_components_tools.py",
+          "path": "courses/data-science-10weeks/code/week05/02_linh_kien_dung_cu_components_tools.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "03_ly_thuyet_theory.py",
+          "path": "courses/data-science-10weeks/code/week05/03_ly_thuyet_theory.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "04_gioi_thieu_tong_quan_ve_gioi_thieu_pandas_dataframes_o.py",
+          "path": "courses/data-science-10weeks/code/week05/04_gioi_thieu_tong_quan_ve_gioi_thieu_pandas_dataframes_o.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "05_cac_chu_de_ky_thuat_chinh_key_technical_topics.py",
+          "path": "courses/data-science-10weeks/code/week05/05_cac_chu_de_ky_thuat_chinh_key_technical_topics.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "06_so_do_cau_hinh_diagram.py",
+          "path": "courses/data-science-10weeks/code/week05/06_so_do_cau_hinh_diagram.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "07_thuc_hanh_hands_on.py",
+          "path": "courses/data-science-10weeks/code/week05/07_thuc_hanh_hands_on.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "08_bai_thuc_hanh_lab_step_by_step_lab_guidelines.py",
+          "path": "courses/data-science-10weeks/code/week05/08_bai_thuc_hanh_lab_step_by_step_lab_guidelines.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "09_nhiem_vu_thuc_te_task.py",
+          "path": "courses/data-science-10weeks/code/week05/09_nhiem_vu_thuc_te_task.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "10_code_mau_code_samples.py",
+          "path": "courses/data-science-10weeks/code/week05/10_code_mau_code_samples.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "11_cau_hoi_thao_luan_discussion.py",
+          "path": "courses/data-science-10weeks/code/week05/11_cau_hoi_thao_luan_discussion.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "12_bai_ve_nha_homework.py",
+          "path": "courses/data-science-10weeks/code/week05/12_bai_ve_nha_homework.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "13_danh_gia_assessment_rubric.py",
+          "path": "courses/data-science-10weeks/code/week05/13_danh_gia_assessment_rubric.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "14_hoc_lieu_thuc_hanh_pandas_va_nhieu_dinh_dang_du_lieu.py",
+          "path": "courses/data-science-10weeks/code/week05/14_hoc_lieu_thuc_hanh_pandas_va_nhieu_dinh_dang_du_lieu.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "15_bai_lab_cu_the.py",
+          "path": "courses/data-science-10weeks/code/week05/15_bai_lab_cu_the.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "16_noi_dung_bai_hoc_doc_va_ghi_du_lieu_voi_pandas.py",
+          "path": "courses/data-science-10weeks/code/week05/16_noi_dung_bai_hoc_doc_va_ghi_du_lieu_voi_pandas.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "17_code_minh_hoa_cua_tuan.py",
+          "path": "courses/data-science-10weeks/code/week05/17_code_minh_hoa_cua_tuan.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "18_khoi_dong_va_muc_tieu_tuan_05.py",
+          "path": "courses/data-science-10weeks/code/week05/18_khoi_dong_va_muc_tieu_tuan_05.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "19_khai_niem_nen_tang_tuan_05.py",
+          "path": "courses/data-science-10weeks/code/week05/19_khai_niem_nen_tang_tuan_05.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "20_thuat_ngu_quan_trong_tuan_05.py",
+          "path": "courses/data-science-10weeks/code/week05/20_thuat_ngu_quan_trong_tuan_05.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "Tuần 05 — 20 code minh họa",
+          "path": "courses/data-science-10weeks/code/week05/README.md",
+          "kind": "4. Code",
+          "format": "md"
+        },
+        {
+          "title": "week05.py",
+          "path": "courses/data-science-10weeks/code/week05.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "01_muc_tieu_objectives.py",
+          "path": "courses/data-science-10weeks/code/week06/01_muc_tieu_objectives.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "02_linh_kien_dung_cu_components_tools.py",
+          "path": "courses/data-science-10weeks/code/week06/02_linh_kien_dung_cu_components_tools.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "03_ly_thuyet_theory.py",
+          "path": "courses/data-science-10weeks/code/week06/03_ly_thuyet_theory.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "04_gioi_thieu_tong_quan_ve_chon_phan_nhom_du_lieu_overvie.py",
+          "path": "courses/data-science-10weeks/code/week06/04_gioi_thieu_tong_quan_ve_chon_phan_nhom_du_lieu_overvie.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "05_cac_chu_de_ky_thuat_chinh_key_technical_topics.py",
+          "path": "courses/data-science-10weeks/code/week06/05_cac_chu_de_ky_thuat_chinh_key_technical_topics.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "06_so_do_cau_hinh_diagram.py",
+          "path": "courses/data-science-10weeks/code/week06/06_so_do_cau_hinh_diagram.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "07_thuc_hanh_hands_on.py",
+          "path": "courses/data-science-10weeks/code/week06/07_thuc_hanh_hands_on.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "08_bai_thuc_hanh_lab_step_by_step_lab_guidelines.py",
+          "path": "courses/data-science-10weeks/code/week06/08_bai_thuc_hanh_lab_step_by_step_lab_guidelines.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "09_nhiem_vu_thuc_te_task.py",
+          "path": "courses/data-science-10weeks/code/week06/09_nhiem_vu_thuc_te_task.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "10_code_mau_code_samples.py",
+          "path": "courses/data-science-10weeks/code/week06/10_code_mau_code_samples.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "11_cau_hoi_thao_luan_discussion.py",
+          "path": "courses/data-science-10weeks/code/week06/11_cau_hoi_thao_luan_discussion.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "12_bai_ve_nha_homework.py",
+          "path": "courses/data-science-10weeks/code/week06/12_bai_ve_nha_homework.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "13_danh_gia_assessment_rubric.py",
+          "path": "courses/data-science-10weeks/code/week06/13_danh_gia_assessment_rubric.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "14_hoc_lieu_thuc_hanh_chon_va_tong_hop_du_lieu_that.py",
+          "path": "courses/data-science-10weeks/code/week06/14_hoc_lieu_thuc_hanh_chon_va_tong_hop_du_lieu_that.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "15_bai_lab_cu_the.py",
+          "path": "courses/data-science-10weeks/code/week06/15_bai_lab_cu_the.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "16_noi_dung_bai_hoc_chon_loc_va_phan_nhom.py",
+          "path": "courses/data-science-10weeks/code/week06/16_noi_dung_bai_hoc_chon_loc_va_phan_nhom.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "17_code_minh_hoa_cua_tuan.py",
+          "path": "courses/data-science-10weeks/code/week06/17_code_minh_hoa_cua_tuan.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "18_khoi_dong_va_muc_tieu_tuan_06.py",
+          "path": "courses/data-science-10weeks/code/week06/18_khoi_dong_va_muc_tieu_tuan_06.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "19_khai_niem_nen_tang_tuan_06.py",
+          "path": "courses/data-science-10weeks/code/week06/19_khai_niem_nen_tang_tuan_06.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "20_thuat_ngu_quan_trong_tuan_06.py",
+          "path": "courses/data-science-10weeks/code/week06/20_thuat_ngu_quan_trong_tuan_06.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "Tuần 06 — 20 code minh họa",
+          "path": "courses/data-science-10weeks/code/week06/README.md",
+          "kind": "4. Code",
+          "format": "md"
+        },
+        {
+          "title": "week06.py",
+          "path": "courses/data-science-10weeks/code/week06.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "01_muc_tieu_objectives.py",
+          "path": "courses/data-science-10weeks/code/week07/01_muc_tieu_objectives.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "02_linh_kien_dung_cu_components_tools.py",
+          "path": "courses/data-science-10weeks/code/week07/02_linh_kien_dung_cu_components_tools.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "03_ly_thuyet_theory.py",
+          "path": "courses/data-science-10weeks/code/week07/03_ly_thuyet_theory.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "04_gioi_thieu_tong_quan_ve_lam_sach_du_lieu_ban_overview.py",
+          "path": "courses/data-science-10weeks/code/week07/04_gioi_thieu_tong_quan_ve_lam_sach_du_lieu_ban_overview.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "05_cac_chu_de_ky_thuat_chinh_key_technical_topics.py",
+          "path": "courses/data-science-10weeks/code/week07/05_cac_chu_de_ky_thuat_chinh_key_technical_topics.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "06_so_do_cau_hinh_diagram.py",
+          "path": "courses/data-science-10weeks/code/week07/06_so_do_cau_hinh_diagram.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "07_thuc_hanh_hands_on.py",
+          "path": "courses/data-science-10weeks/code/week07/07_thuc_hanh_hands_on.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "08_bai_thuc_hanh_lab_step_by_step_lab_guidelines.py",
+          "path": "courses/data-science-10weeks/code/week07/08_bai_thuc_hanh_lab_step_by_step_lab_guidelines.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "09_nhiem_vu_thuc_te_task.py",
+          "path": "courses/data-science-10weeks/code/week07/09_nhiem_vu_thuc_te_task.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "10_code_mau_code_samples.py",
+          "path": "courses/data-science-10weeks/code/week07/10_code_mau_code_samples.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "11_cau_hoi_thao_luan_discussion.py",
+          "path": "courses/data-science-10weeks/code/week07/11_cau_hoi_thao_luan_discussion.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "12_bai_ve_nha_homework.py",
+          "path": "courses/data-science-10weeks/code/week07/12_bai_ve_nha_homework.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "13_danh_gia_assessment_rubric.py",
+          "path": "courses/data-science-10weeks/code/week07/13_danh_gia_assessment_rubric.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "14_hoc_lieu_thuc_hanh_kiem_dinh_chat_luong_du_lieu.py",
+          "path": "courses/data-science-10weeks/code/week07/14_hoc_lieu_thuc_hanh_kiem_dinh_chat_luong_du_lieu.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "15_bai_lab_cu_the.py",
+          "path": "courses/data-science-10weeks/code/week07/15_bai_lab_cu_the.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "16_noi_dung_bai_hoc_lam_sach_co_the_kiem_chung.py",
+          "path": "courses/data-science-10weeks/code/week07/16_noi_dung_bai_hoc_lam_sach_co_the_kiem_chung.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "17_code_minh_hoa_cua_tuan.py",
+          "path": "courses/data-science-10weeks/code/week07/17_code_minh_hoa_cua_tuan.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "18_khoi_dong_va_muc_tieu_tuan_07.py",
+          "path": "courses/data-science-10weeks/code/week07/18_khoi_dong_va_muc_tieu_tuan_07.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "19_khai_niem_nen_tang_tuan_07.py",
+          "path": "courses/data-science-10weeks/code/week07/19_khai_niem_nen_tang_tuan_07.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "20_thuat_ngu_quan_trong_tuan_07.py",
+          "path": "courses/data-science-10weeks/code/week07/20_thuat_ngu_quan_trong_tuan_07.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "Tuần 07 — 20 code minh họa",
+          "path": "courses/data-science-10weeks/code/week07/README.md",
+          "kind": "4. Code",
+          "format": "md"
+        },
+        {
+          "title": "week07.py",
+          "path": "courses/data-science-10weeks/code/week07.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "01_muc_tieu_objectives.py",
+          "path": "courses/data-science-10weeks/code/week08/01_muc_tieu_objectives.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "02_linh_kien_dung_cu_components_tools.py",
+          "path": "courses/data-science-10weeks/code/week08/02_linh_kien_dung_cu_components_tools.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "03_ly_thuyet_theory.py",
+          "path": "courses/data-science-10weeks/code/week08/03_ly_thuyet_theory.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "04_gioi_thieu_tong_quan_ve_ghep_bang_bien_doi_du_lieu_ove.py",
+          "path": "courses/data-science-10weeks/code/week08/04_gioi_thieu_tong_quan_ve_ghep_bang_bien_doi_du_lieu_ove.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "05_cac_chu_de_ky_thuat_chinh_key_technical_topics.py",
+          "path": "courses/data-science-10weeks/code/week08/05_cac_chu_de_ky_thuat_chinh_key_technical_topics.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "06_so_do_cau_hinh_diagram.py",
+          "path": "courses/data-science-10weeks/code/week08/06_so_do_cau_hinh_diagram.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "07_thuc_hanh_hands_on.py",
+          "path": "courses/data-science-10weeks/code/week08/07_thuc_hanh_hands_on.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "08_bai_thuc_hanh_lab_step_by_step_lab_guidelines.py",
+          "path": "courses/data-science-10weeks/code/week08/08_bai_thuc_hanh_lab_step_by_step_lab_guidelines.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "09_nhiem_vu_thuc_te_task.py",
+          "path": "courses/data-science-10weeks/code/week08/09_nhiem_vu_thuc_te_task.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "10_code_mau_code_samples.py",
+          "path": "courses/data-science-10weeks/code/week08/10_code_mau_code_samples.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "11_cau_hoi_thao_luan_discussion.py",
+          "path": "courses/data-science-10weeks/code/week08/11_cau_hoi_thao_luan_discussion.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "12_bai_ve_nha_homework.py",
+          "path": "courses/data-science-10weeks/code/week08/12_bai_ve_nha_homework.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "13_danh_gia_assessment_rubric.py",
+          "path": "courses/data-science-10weeks/code/week08/13_danh_gia_assessment_rubric.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "14_hoc_lieu_thuc_hanh_pipeline_bien_doi_du_lieu.py",
+          "path": "courses/data-science-10weeks/code/week08/14_hoc_lieu_thuc_hanh_pipeline_bien_doi_du_lieu.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "15_bai_lab_cu_the.py",
+          "path": "courses/data-science-10weeks/code/week08/15_bai_lab_cu_the.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "16_noi_dung_bai_hoc_bien_doi_va_hop_nhat.py",
+          "path": "courses/data-science-10weeks/code/week08/16_noi_dung_bai_hoc_bien_doi_va_hop_nhat.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "17_code_minh_hoa_cua_tuan.py",
+          "path": "courses/data-science-10weeks/code/week08/17_code_minh_hoa_cua_tuan.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "18_khoi_dong_va_muc_tieu_tuan_08.py",
+          "path": "courses/data-science-10weeks/code/week08/18_khoi_dong_va_muc_tieu_tuan_08.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "19_khai_niem_nen_tang_tuan_08.py",
+          "path": "courses/data-science-10weeks/code/week08/19_khai_niem_nen_tang_tuan_08.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "20_thuat_ngu_quan_trong_tuan_08.py",
+          "path": "courses/data-science-10weeks/code/week08/20_thuat_ngu_quan_trong_tuan_08.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "Tuần 08 — 20 code minh họa",
+          "path": "courses/data-science-10weeks/code/week08/README.md",
+          "kind": "4. Code",
+          "format": "md"
+        },
+        {
+          "title": "week08.py",
+          "path": "courses/data-science-10weeks/code/week08.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "01_muc_tieu_objectives.py",
+          "path": "courses/data-science-10weeks/code/week09/01_muc_tieu_objectives.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "02_linh_kien_dung_cu_components_tools.py",
+          "path": "courses/data-science-10weeks/code/week09/02_linh_kien_dung_cu_components_tools.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "03_ly_thuyet_theory.py",
+          "path": "courses/data-science-10weeks/code/week09/03_ly_thuyet_theory.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "04_gioi_thieu_tong_quan_ve_truc_quan_hoa_du_lieu_truc_qua.py",
+          "path": "courses/data-science-10weeks/code/week09/04_gioi_thieu_tong_quan_ve_truc_quan_hoa_du_lieu_truc_qua.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "05_cac_chu_de_ky_thuat_chinh_key_technical_topics.py",
+          "path": "courses/data-science-10weeks/code/week09/05_cac_chu_de_ky_thuat_chinh_key_technical_topics.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "06_so_do_cau_hinh_diagram.py",
+          "path": "courses/data-science-10weeks/code/week09/06_so_do_cau_hinh_diagram.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "07_thuc_hanh_hands_on.py",
+          "path": "courses/data-science-10weeks/code/week09/07_thuc_hanh_hands_on.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "08_bai_thuc_hanh_lab_step_by_step_lab_guidelines.py",
+          "path": "courses/data-science-10weeks/code/week09/08_bai_thuc_hanh_lab_step_by_step_lab_guidelines.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "09_nhiem_vu_thuc_te_task.py",
+          "path": "courses/data-science-10weeks/code/week09/09_nhiem_vu_thuc_te_task.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "10_code_mau_code_samples.py",
+          "path": "courses/data-science-10weeks/code/week09/10_code_mau_code_samples.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "11_cau_hoi_thao_luan_discussion.py",
+          "path": "courses/data-science-10weeks/code/week09/11_cau_hoi_thao_luan_discussion.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "12_bai_ve_nha_homework.py",
+          "path": "courses/data-science-10weeks/code/week09/12_bai_ve_nha_homework.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "13_danh_gia_assessment_rubric.py",
+          "path": "courses/data-science-10weeks/code/week09/13_danh_gia_assessment_rubric.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "14_hoc_lieu_thuc_hanh_matplotlib.py",
+          "path": "courses/data-science-10weeks/code/week09/14_hoc_lieu_thuc_hanh_matplotlib.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "15_hoc_lieu_thuc_hanh_seaborn.py",
+          "path": "courses/data-science-10weeks/code/week09/15_hoc_lieu_thuc_hanh_seaborn.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "16_san_pham_tuan.py",
+          "path": "courses/data-science-10weeks/code/week09/16_san_pham_tuan.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "17_noi_dung_bai_hoc_chon_bieu_do_phu_hop.py",
+          "path": "courses/data-science-10weeks/code/week09/17_noi_dung_bai_hoc_chon_bieu_do_phu_hop.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "18_code_minh_hoa_cua_tuan.py",
+          "path": "courses/data-science-10weeks/code/week09/18_code_minh_hoa_cua_tuan.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "19_khoi_dong_va_muc_tieu_tuan_09.py",
+          "path": "courses/data-science-10weeks/code/week09/19_khoi_dong_va_muc_tieu_tuan_09.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "20_khai_niem_nen_tang_tuan_09.py",
+          "path": "courses/data-science-10weeks/code/week09/20_khai_niem_nen_tang_tuan_09.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "Tuần 09 — 20 code minh họa",
+          "path": "courses/data-science-10weeks/code/week09/README.md",
+          "kind": "4. Code",
+          "format": "md"
+        },
+        {
+          "title": "week09.py",
+          "path": "courses/data-science-10weeks/code/week09.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "01_muc_tieu_objectives.py",
+          "path": "courses/data-science-10weeks/code/week10/01_muc_tieu_objectives.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "02_linh_kien_dung_cu_components_tools.py",
+          "path": "courses/data-science-10weeks/code/week10/02_linh_kien_dung_cu_components_tools.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "03_ly_thuyet_theory.py",
+          "path": "courses/data-science-10weeks/code/week10/03_ly_thuyet_theory.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "04_gioi_thieu_tong_quan_ve_hoc_may_co_ban_voi_scikit_lear.py",
+          "path": "courses/data-science-10weeks/code/week10/04_gioi_thieu_tong_quan_ve_hoc_may_co_ban_voi_scikit_lear.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "05_cac_chu_de_ky_thuat_chinh_key_technical_topics.py",
+          "path": "courses/data-science-10weeks/code/week10/05_cac_chu_de_ky_thuat_chinh_key_technical_topics.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "06_so_do_cau_hinh_diagram.py",
+          "path": "courses/data-science-10weeks/code/week10/06_so_do_cau_hinh_diagram.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "07_thuc_hanh_hands_on.py",
+          "path": "courses/data-science-10weeks/code/week10/07_thuc_hanh_hands_on.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "08_bai_thuc_hanh_lab_step_by_step_lab_guidelines.py",
+          "path": "courses/data-science-10weeks/code/week10/08_bai_thuc_hanh_lab_step_by_step_lab_guidelines.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "09_nhiem_vu_thuc_te_task.py",
+          "path": "courses/data-science-10weeks/code/week10/09_nhiem_vu_thuc_te_task.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "10_code_mau_code_samples.py",
+          "path": "courses/data-science-10weeks/code/week10/10_code_mau_code_samples.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "11_cau_hoi_thao_luan_discussion.py",
+          "path": "courses/data-science-10weeks/code/week10/11_cau_hoi_thao_luan_discussion.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "12_bai_ve_nha_homework.py",
+          "path": "courses/data-science-10weeks/code/week10/12_bai_ve_nha_homework.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "13_danh_gia_assessment_rubric.py",
+          "path": "courses/data-science-10weeks/code/week10/13_danh_gia_assessment_rubric.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "14_hoc_lieu_mo_rong_scipy_cho_bai_toan_khoa_hoc.py",
+          "path": "courses/data-science-10weeks/code/week10/14_hoc_lieu_mo_rong_scipy_cho_bai_toan_khoa_hoc.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "15_bai_lab_tich_hop_cuoi_khoa.py",
+          "path": "courses/data-science-10weeks/code/week10/15_bai_lab_tich_hop_cuoi_khoa.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "16_noi_dung_bai_hoc_scipy_tu_du_lieu_den_nghiem_so.py",
+          "path": "courses/data-science-10weeks/code/week10/16_noi_dung_bai_hoc_scipy_tu_du_lieu_den_nghiem_so.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "17_code_minh_hoa_cua_tuan.py",
+          "path": "courses/data-science-10weeks/code/week10/17_code_minh_hoa_cua_tuan.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "18_khoi_dong_va_muc_tieu_tuan_10.py",
+          "path": "courses/data-science-10weeks/code/week10/18_khoi_dong_va_muc_tieu_tuan_10.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "19_khai_niem_nen_tang_tuan_10.py",
+          "path": "courses/data-science-10weeks/code/week10/19_khai_niem_nen_tang_tuan_10.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "20_thuat_ngu_quan_trong_tuan_10.py",
+          "path": "courses/data-science-10weeks/code/week10/20_thuat_ngu_quan_trong_tuan_10.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "Tuần 10 — 20 code minh họa",
+          "path": "courses/data-science-10weeks/code/week10/README.md",
+          "kind": "4. Code",
+          "format": "md"
+        },
+        {
+          "title": "week10.py",
+          "path": "courses/data-science-10weeks/code/week10.py",
+          "kind": "4. Code",
+          "format": "py"
+        }
+      ],
+      "lessonCount": 10
+    },
+    {
+      "id": "machine-learning-10weeks",
+      "title": "Học Máy & Học Sâu (Machine Learning & Deep Learning)",
+      "documents": [
+        {
+          "title": "Học Máy & Học Sâu (Machine Learning & Deep Learning)",
+          "path": "courses/machine-learning-10weeks/INDEX.md",
+          "kind": "1. Lesson",
+          "format": "md"
+        },
+        {
+          "title": "Lộ trình Học Máy & Học Sâu (Machine Learning & Deep Learning) (10 Tuần)",
+          "path": "courses/machine-learning-10weeks/schedule.md",
+          "kind": "1. Lesson",
+          "format": "md"
+        },
+        {
+          "title": "Tuần 1: Nhập môn Machine Learning & Scikit-Learn",
+          "path": "courses/machine-learning-10weeks/lessons/week01.md",
+          "kind": "1. Lesson",
+          "format": "md"
+        },
+        {
+          "title": "Tuần 2: Hồi quy tuyến tính & Hồi quy Logistic",
+          "path": "courses/machine-learning-10weeks/lessons/week02.md",
+          "kind": "1. Lesson",
+          "format": "md"
+        },
+        {
+          "title": "Tuần 3: Cây quyết định & Rừng ngẫu nhiên (Decision Trees & Random Forests)",
+          "path": "courses/machine-learning-10weeks/lessons/week03.md",
+          "kind": "1. Lesson",
+          "format": "md"
+        },
+        {
+          "title": "Tuần 4: Phân cụm dữ liệu & Giảm chiều (K-Means & PCA)",
+          "path": "courses/machine-learning-10weeks/lessons/week04.md",
+          "kind": "1. Lesson",
+          "format": "md"
+        },
+        {
+          "title": "Tuần 5: Nhập môn Mạng nơ-ron (Neural Networks) & TensorFlow",
+          "path": "courses/machine-learning-10weeks/lessons/week05.md",
+          "kind": "1. Lesson",
+          "format": "md"
+        },
+        {
+          "title": "Tuần 6: Mạng nơ-ron tích chập (CNN) cơ bản",
+          "path": "courses/machine-learning-10weeks/lessons/week06.md",
+          "kind": "1. Lesson",
+          "format": "md"
+        },
+        {
+          "title": "Tuần 7: Xử lý Ngôn ngữ Tự nhiên (NLP) & Mạng nơ-ron hồi quy (RNN)",
+          "path": "courses/machine-learning-10weeks/lessons/week07.md",
+          "kind": "1. Lesson",
+          "format": "md"
+        },
+        {
+          "title": "Tuần 8: Transformer & Mô hình ngôn ngữ lớn (LLMs)",
+          "path": "courses/machine-learning-10weeks/lessons/week08.md",
+          "kind": "1. Lesson",
+          "format": "md"
+        },
+        {
+          "title": "Tuần 9: Hệ thống gợi ý (Recommendation Systems)",
+          "path": "courses/machine-learning-10weeks/lessons/week09.md",
+          "kind": "1. Lesson",
+          "format": "md"
+        },
+        {
+          "title": "Tuần 10: Đồ án cuối khoá & Triển khai (Deployment)",
+          "path": "courses/machine-learning-10weeks/lessons/week10.md",
+          "kind": "1. Lesson",
+          "format": "md"
+        },
+        {
+          "title": "Presentation — Tuần 1: Nhập môn Machine Learning & Scikit-Learn",
+          "path": "courses/machine-learning-10weeks/presentations/week01.md",
+          "kind": "2. Presentation",
+          "format": "md"
+        },
+        {
+          "title": "Presentation — Tuần 2: Hồi quy tuyến tính & Hồi quy Logistic",
+          "path": "courses/machine-learning-10weeks/presentations/week02.md",
+          "kind": "2. Presentation",
+          "format": "md"
+        },
+        {
+          "title": "Presentation — Tuần 3: Cây quyết định & Rừng ngẫu nhiên (Decision Trees & Random Forests)",
+          "path": "courses/machine-learning-10weeks/presentations/week03.md",
+          "kind": "2. Presentation",
+          "format": "md"
+        },
+        {
+          "title": "Presentation — Tuần 4: Phân cụm dữ liệu & Giảm chiều (K-Means & PCA)",
+          "path": "courses/machine-learning-10weeks/presentations/week04.md",
+          "kind": "2. Presentation",
+          "format": "md"
+        },
+        {
+          "title": "Presentation — Tuần 5: Nhập môn Mạng nơ-ron (Neural Networks) & TensorFlow",
+          "path": "courses/machine-learning-10weeks/presentations/week05.md",
+          "kind": "2. Presentation",
+          "format": "md"
+        },
+        {
+          "title": "Presentation — Tuần 6: Mạng nơ-ron tích chập (CNN) cơ bản",
+          "path": "courses/machine-learning-10weeks/presentations/week06.md",
+          "kind": "2. Presentation",
+          "format": "md"
+        },
+        {
+          "title": "Presentation — Tuần 7: Xử lý Ngôn ngữ Tự nhiên (NLP) & Mạng nơ-ron hồi quy (RNN)",
+          "path": "courses/machine-learning-10weeks/presentations/week07.md",
+          "kind": "2. Presentation",
+          "format": "md"
+        },
+        {
+          "title": "Presentation — Tuần 8: Transformer & Mô hình ngôn ngữ lớn (LLMs)",
+          "path": "courses/machine-learning-10weeks/presentations/week08.md",
+          "kind": "2. Presentation",
+          "format": "md"
+        },
+        {
+          "title": "Presentation — Tuần 9: Hệ thống gợi ý (Recommendation Systems)",
+          "path": "courses/machine-learning-10weeks/presentations/week09.md",
+          "kind": "2. Presentation",
+          "format": "md"
+        },
+        {
+          "title": "Presentation — Tuần 10: Đồ án cuối khoá & Triển khai (Deployment)",
+          "path": "courses/machine-learning-10weeks/presentations/week10.md",
+          "kind": "2. Presentation",
+          "format": "md"
+        },
+        {
+          "title": "Exercise — Tuần 1: Nhập môn Machine Learning & Scikit-Learn",
+          "path": "courses/machine-learning-10weeks/exercises/week01.md",
+          "kind": "3. Exercise",
+          "format": "md"
+        },
+        {
+          "title": "Exercise — Tuần 2: Hồi quy tuyến tính & Hồi quy Logistic",
+          "path": "courses/machine-learning-10weeks/exercises/week02.md",
+          "kind": "3. Exercise",
+          "format": "md"
+        },
+        {
+          "title": "Exercise — Tuần 3: Cây quyết định & Rừng ngẫu nhiên (Decision Trees & Random Forests)",
+          "path": "courses/machine-learning-10weeks/exercises/week03.md",
+          "kind": "3. Exercise",
+          "format": "md"
+        },
+        {
+          "title": "Exercise — Tuần 4: Phân cụm dữ liệu & Giảm chiều (K-Means & PCA)",
+          "path": "courses/machine-learning-10weeks/exercises/week04.md",
+          "kind": "3. Exercise",
+          "format": "md"
+        },
+        {
+          "title": "Exercise — Tuần 5: Nhập môn Mạng nơ-ron (Neural Networks) & TensorFlow",
+          "path": "courses/machine-learning-10weeks/exercises/week05.md",
+          "kind": "3. Exercise",
+          "format": "md"
+        },
+        {
+          "title": "Exercise — Tuần 6: Mạng nơ-ron tích chập (CNN) cơ bản",
+          "path": "courses/machine-learning-10weeks/exercises/week06.md",
+          "kind": "3. Exercise",
+          "format": "md"
+        },
+        {
+          "title": "Exercise — Tuần 7: Xử lý Ngôn ngữ Tự nhiên (NLP) & Mạng nơ-ron hồi quy (RNN)",
+          "path": "courses/machine-learning-10weeks/exercises/week07.md",
+          "kind": "3. Exercise",
+          "format": "md"
+        },
+        {
+          "title": "Exercise — Tuần 8: Transformer & Mô hình ngôn ngữ lớn (LLMs)",
+          "path": "courses/machine-learning-10weeks/exercises/week08.md",
+          "kind": "3. Exercise",
+          "format": "md"
+        },
+        {
+          "title": "Exercise — Tuần 9: Hệ thống gợi ý (Recommendation Systems)",
+          "path": "courses/machine-learning-10weeks/exercises/week09.md",
+          "kind": "3. Exercise",
+          "format": "md"
+        },
+        {
+          "title": "Exercise — Tuần 10: Đồ án cuối khoá & Triển khai (Deployment)",
+          "path": "courses/machine-learning-10weeks/exercises/week10.md",
+          "kind": "3. Exercise",
+          "format": "md"
+        },
+        {
+          "title": "200 code minh họa theo 10 tuần",
+          "path": "courses/machine-learning-10weeks/code/WEEKLY_EXAMPLES.md",
+          "kind": "4. Code",
+          "format": "md"
+        },
+        {
+          "title": "01_muc_tieu_bai_hoc.py",
+          "path": "courses/machine-learning-10weeks/code/week01/01_muc_tieu_bai_hoc.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "02_du_lieu_cong_cu_dataset_tools.py",
+          "path": "courses/machine-learning-10weeks/code/week01/02_du_lieu_cong_cu_dataset_tools.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "03_ma_nguon_thuc_hanh_hands_on_code.py",
+          "path": "courses/machine-learning-10weeks/code/week01/03_ma_nguon_thuc_hanh_hands_on_code.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "04_bai_tap_challenge.py",
+          "path": "courses/machine-learning-10weeks/code/week01/04_bai_tap_challenge.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "05_code_minh_hoa_cua_tuan.py",
+          "path": "courses/machine-learning-10weeks/code/week01/05_code_minh_hoa_cua_tuan.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "06_khoi_dong_va_muc_tieu_tuan_01.py",
+          "path": "courses/machine-learning-10weeks/code/week01/06_khoi_dong_va_muc_tieu_tuan_01.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "07_khai_niem_nen_tang_tuan_01.py",
+          "path": "courses/machine-learning-10weeks/code/week01/07_khai_niem_nen_tang_tuan_01.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "08_thuat_ngu_quan_trong_tuan_01.py",
+          "path": "courses/machine-learning-10weeks/code/week01/08_thuat_ngu_quan_trong_tuan_01.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "09_chuan_bi_moi_truong_tuan_01.py",
+          "path": "courses/machine-learning-10weeks/code/week01/09_chuan_bi_moi_truong_tuan_01.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "10_du_lieu_dau_vao_tuan_01.py",
+          "path": "courses/machine-learning-10weeks/code/week01/10_du_lieu_dau_vao_tuan_01.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "11_cau_truc_chuong_trinh_tuan_01.py",
+          "path": "courses/machine-learning-10weeks/code/week01/11_cau_truc_chuong_trinh_tuan_01.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "12_vi_du_co_ban_tuan_01.py",
+          "path": "courses/machine-learning-10weeks/code/week01/12_vi_du_co_ban_tuan_01.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "13_kiem_tra_du_lieu_tuan_01.py",
+          "path": "courses/machine-learning-10weeks/code/week01/13_kiem_tra_du_lieu_tuan_01.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "14_xu_ly_truong_hop_bien_tuan_01.py",
+          "path": "courses/machine-learning-10weeks/code/week01/14_xu_ly_truong_hop_bien_tuan_01.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "15_quan_sat_ket_qua_tuan_01.py",
+          "path": "courses/machine-learning-10weeks/code/week01/15_quan_sat_ket_qua_tuan_01.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "16_tach_ham_tuan_01.py",
+          "path": "courses/machine-learning-10weeks/code/week01/16_tach_ham_tuan_01.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "17_to_chuc_module_tuan_01.py",
+          "path": "courses/machine-learning-10weeks/code/week01/17_to_chuc_module_tuan_01.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "18_ghi_log_va_debug_tuan_01.py",
+          "path": "courses/machine-learning-10weeks/code/week01/18_ghi_log_va_debug_tuan_01.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "19_kiem_thu_don_vi_tuan_01.py",
+          "path": "courses/machine-learning-10weeks/code/week01/19_kiem_thu_don_vi_tuan_01.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "20_thuc_hanh_co_huong_dan_tuan_01.py",
+          "path": "courses/machine-learning-10weeks/code/week01/20_thuc_hanh_co_huong_dan_tuan_01.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "Tuần 01 — 20 code minh họa",
+          "path": "courses/machine-learning-10weeks/code/week01/README.md",
+          "kind": "4. Code",
+          "format": "md"
+        },
+        {
+          "title": "week01.py",
+          "path": "courses/machine-learning-10weeks/code/week01.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "01_muc_tieu_bai_hoc.py",
+          "path": "courses/machine-learning-10weeks/code/week02/01_muc_tieu_bai_hoc.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "02_du_lieu_cong_cu_dataset_tools.py",
+          "path": "courses/machine-learning-10weeks/code/week02/02_du_lieu_cong_cu_dataset_tools.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "03_ma_nguon_thuc_hanh_hands_on_code.py",
+          "path": "courses/machine-learning-10weeks/code/week02/03_ma_nguon_thuc_hanh_hands_on_code.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "04_bai_tap_challenge.py",
+          "path": "courses/machine-learning-10weeks/code/week02/04_bai_tap_challenge.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "05_code_minh_hoa_cua_tuan.py",
+          "path": "courses/machine-learning-10weeks/code/week02/05_code_minh_hoa_cua_tuan.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "06_khoi_dong_va_muc_tieu_tuan_02.py",
+          "path": "courses/machine-learning-10weeks/code/week02/06_khoi_dong_va_muc_tieu_tuan_02.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "07_khai_niem_nen_tang_tuan_02.py",
+          "path": "courses/machine-learning-10weeks/code/week02/07_khai_niem_nen_tang_tuan_02.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "08_thuat_ngu_quan_trong_tuan_02.py",
+          "path": "courses/machine-learning-10weeks/code/week02/08_thuat_ngu_quan_trong_tuan_02.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "09_chuan_bi_moi_truong_tuan_02.py",
+          "path": "courses/machine-learning-10weeks/code/week02/09_chuan_bi_moi_truong_tuan_02.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "10_du_lieu_dau_vao_tuan_02.py",
+          "path": "courses/machine-learning-10weeks/code/week02/10_du_lieu_dau_vao_tuan_02.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "11_cau_truc_chuong_trinh_tuan_02.py",
+          "path": "courses/machine-learning-10weeks/code/week02/11_cau_truc_chuong_trinh_tuan_02.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "12_vi_du_co_ban_tuan_02.py",
+          "path": "courses/machine-learning-10weeks/code/week02/12_vi_du_co_ban_tuan_02.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "13_kiem_tra_du_lieu_tuan_02.py",
+          "path": "courses/machine-learning-10weeks/code/week02/13_kiem_tra_du_lieu_tuan_02.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "14_xu_ly_truong_hop_bien_tuan_02.py",
+          "path": "courses/machine-learning-10weeks/code/week02/14_xu_ly_truong_hop_bien_tuan_02.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "15_quan_sat_ket_qua_tuan_02.py",
+          "path": "courses/machine-learning-10weeks/code/week02/15_quan_sat_ket_qua_tuan_02.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "16_tach_ham_tuan_02.py",
+          "path": "courses/machine-learning-10weeks/code/week02/16_tach_ham_tuan_02.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "17_to_chuc_module_tuan_02.py",
+          "path": "courses/machine-learning-10weeks/code/week02/17_to_chuc_module_tuan_02.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "18_ghi_log_va_debug_tuan_02.py",
+          "path": "courses/machine-learning-10weeks/code/week02/18_ghi_log_va_debug_tuan_02.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "19_kiem_thu_don_vi_tuan_02.py",
+          "path": "courses/machine-learning-10weeks/code/week02/19_kiem_thu_don_vi_tuan_02.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "20_thuc_hanh_co_huong_dan_tuan_02.py",
+          "path": "courses/machine-learning-10weeks/code/week02/20_thuc_hanh_co_huong_dan_tuan_02.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "Tuần 02 — 20 code minh họa",
+          "path": "courses/machine-learning-10weeks/code/week02/README.md",
+          "kind": "4. Code",
+          "format": "md"
+        },
+        {
+          "title": "week02.py",
+          "path": "courses/machine-learning-10weeks/code/week02.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "01_muc_tieu_bai_hoc.py",
+          "path": "courses/machine-learning-10weeks/code/week03/01_muc_tieu_bai_hoc.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "02_du_lieu_cong_cu_dataset_tools.py",
+          "path": "courses/machine-learning-10weeks/code/week03/02_du_lieu_cong_cu_dataset_tools.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "03_ma_nguon_thuc_hanh_hands_on_code.py",
+          "path": "courses/machine-learning-10weeks/code/week03/03_ma_nguon_thuc_hanh_hands_on_code.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "04_bai_tap_challenge.py",
+          "path": "courses/machine-learning-10weeks/code/week03/04_bai_tap_challenge.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "05_code_minh_hoa_cua_tuan.py",
+          "path": "courses/machine-learning-10weeks/code/week03/05_code_minh_hoa_cua_tuan.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "06_khoi_dong_va_muc_tieu_tuan_03.py",
+          "path": "courses/machine-learning-10weeks/code/week03/06_khoi_dong_va_muc_tieu_tuan_03.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "07_khai_niem_nen_tang_tuan_03.py",
+          "path": "courses/machine-learning-10weeks/code/week03/07_khai_niem_nen_tang_tuan_03.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "08_thuat_ngu_quan_trong_tuan_03.py",
+          "path": "courses/machine-learning-10weeks/code/week03/08_thuat_ngu_quan_trong_tuan_03.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "09_chuan_bi_moi_truong_tuan_03.py",
+          "path": "courses/machine-learning-10weeks/code/week03/09_chuan_bi_moi_truong_tuan_03.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "10_du_lieu_dau_vao_tuan_03.py",
+          "path": "courses/machine-learning-10weeks/code/week03/10_du_lieu_dau_vao_tuan_03.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "11_cau_truc_chuong_trinh_tuan_03.py",
+          "path": "courses/machine-learning-10weeks/code/week03/11_cau_truc_chuong_trinh_tuan_03.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "12_vi_du_co_ban_tuan_03.py",
+          "path": "courses/machine-learning-10weeks/code/week03/12_vi_du_co_ban_tuan_03.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "13_kiem_tra_du_lieu_tuan_03.py",
+          "path": "courses/machine-learning-10weeks/code/week03/13_kiem_tra_du_lieu_tuan_03.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "14_xu_ly_truong_hop_bien_tuan_03.py",
+          "path": "courses/machine-learning-10weeks/code/week03/14_xu_ly_truong_hop_bien_tuan_03.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "15_quan_sat_ket_qua_tuan_03.py",
+          "path": "courses/machine-learning-10weeks/code/week03/15_quan_sat_ket_qua_tuan_03.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "16_tach_ham_tuan_03.py",
+          "path": "courses/machine-learning-10weeks/code/week03/16_tach_ham_tuan_03.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "17_to_chuc_module_tuan_03.py",
+          "path": "courses/machine-learning-10weeks/code/week03/17_to_chuc_module_tuan_03.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "18_ghi_log_va_debug_tuan_03.py",
+          "path": "courses/machine-learning-10weeks/code/week03/18_ghi_log_va_debug_tuan_03.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "19_kiem_thu_don_vi_tuan_03.py",
+          "path": "courses/machine-learning-10weeks/code/week03/19_kiem_thu_don_vi_tuan_03.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "20_thuc_hanh_co_huong_dan_tuan_03.py",
+          "path": "courses/machine-learning-10weeks/code/week03/20_thuc_hanh_co_huong_dan_tuan_03.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "Tuần 03 — 20 code minh họa",
+          "path": "courses/machine-learning-10weeks/code/week03/README.md",
+          "kind": "4. Code",
+          "format": "md"
+        },
+        {
+          "title": "week03.py",
+          "path": "courses/machine-learning-10weeks/code/week03.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "01_muc_tieu_bai_hoc.py",
+          "path": "courses/machine-learning-10weeks/code/week04/01_muc_tieu_bai_hoc.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "02_du_lieu_cong_cu_dataset_tools.py",
+          "path": "courses/machine-learning-10weeks/code/week04/02_du_lieu_cong_cu_dataset_tools.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "03_ma_nguon_thuc_hanh_hands_on_code.py",
+          "path": "courses/machine-learning-10weeks/code/week04/03_ma_nguon_thuc_hanh_hands_on_code.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "04_bai_tap_challenge.py",
+          "path": "courses/machine-learning-10weeks/code/week04/04_bai_tap_challenge.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "05_code_minh_hoa_cua_tuan.py",
+          "path": "courses/machine-learning-10weeks/code/week04/05_code_minh_hoa_cua_tuan.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "06_khoi_dong_va_muc_tieu_tuan_04.py",
+          "path": "courses/machine-learning-10weeks/code/week04/06_khoi_dong_va_muc_tieu_tuan_04.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "07_khai_niem_nen_tang_tuan_04.py",
+          "path": "courses/machine-learning-10weeks/code/week04/07_khai_niem_nen_tang_tuan_04.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "08_thuat_ngu_quan_trong_tuan_04.py",
+          "path": "courses/machine-learning-10weeks/code/week04/08_thuat_ngu_quan_trong_tuan_04.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "09_chuan_bi_moi_truong_tuan_04.py",
+          "path": "courses/machine-learning-10weeks/code/week04/09_chuan_bi_moi_truong_tuan_04.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "10_du_lieu_dau_vao_tuan_04.py",
+          "path": "courses/machine-learning-10weeks/code/week04/10_du_lieu_dau_vao_tuan_04.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "11_cau_truc_chuong_trinh_tuan_04.py",
+          "path": "courses/machine-learning-10weeks/code/week04/11_cau_truc_chuong_trinh_tuan_04.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "12_vi_du_co_ban_tuan_04.py",
+          "path": "courses/machine-learning-10weeks/code/week04/12_vi_du_co_ban_tuan_04.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "13_kiem_tra_du_lieu_tuan_04.py",
+          "path": "courses/machine-learning-10weeks/code/week04/13_kiem_tra_du_lieu_tuan_04.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "14_xu_ly_truong_hop_bien_tuan_04.py",
+          "path": "courses/machine-learning-10weeks/code/week04/14_xu_ly_truong_hop_bien_tuan_04.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "15_quan_sat_ket_qua_tuan_04.py",
+          "path": "courses/machine-learning-10weeks/code/week04/15_quan_sat_ket_qua_tuan_04.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "16_tach_ham_tuan_04.py",
+          "path": "courses/machine-learning-10weeks/code/week04/16_tach_ham_tuan_04.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "17_to_chuc_module_tuan_04.py",
+          "path": "courses/machine-learning-10weeks/code/week04/17_to_chuc_module_tuan_04.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "18_ghi_log_va_debug_tuan_04.py",
+          "path": "courses/machine-learning-10weeks/code/week04/18_ghi_log_va_debug_tuan_04.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "19_kiem_thu_don_vi_tuan_04.py",
+          "path": "courses/machine-learning-10weeks/code/week04/19_kiem_thu_don_vi_tuan_04.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "20_thuc_hanh_co_huong_dan_tuan_04.py",
+          "path": "courses/machine-learning-10weeks/code/week04/20_thuc_hanh_co_huong_dan_tuan_04.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "Tuần 04 — 20 code minh họa",
+          "path": "courses/machine-learning-10weeks/code/week04/README.md",
+          "kind": "4. Code",
+          "format": "md"
+        },
+        {
+          "title": "week04.py",
+          "path": "courses/machine-learning-10weeks/code/week04.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "01_muc_tieu_bai_hoc.py",
+          "path": "courses/machine-learning-10weeks/code/week05/01_muc_tieu_bai_hoc.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "02_du_lieu_cong_cu_dataset_tools.py",
+          "path": "courses/machine-learning-10weeks/code/week05/02_du_lieu_cong_cu_dataset_tools.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "03_ma_nguon_thuc_hanh_hands_on_code.py",
+          "path": "courses/machine-learning-10weeks/code/week05/03_ma_nguon_thuc_hanh_hands_on_code.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "04_bai_tap_challenge.py",
+          "path": "courses/machine-learning-10weeks/code/week05/04_bai_tap_challenge.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "05_code_minh_hoa_cua_tuan.py",
+          "path": "courses/machine-learning-10weeks/code/week05/05_code_minh_hoa_cua_tuan.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "06_khoi_dong_va_muc_tieu_tuan_05.py",
+          "path": "courses/machine-learning-10weeks/code/week05/06_khoi_dong_va_muc_tieu_tuan_05.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "07_khai_niem_nen_tang_tuan_05.py",
+          "path": "courses/machine-learning-10weeks/code/week05/07_khai_niem_nen_tang_tuan_05.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "08_thuat_ngu_quan_trong_tuan_05.py",
+          "path": "courses/machine-learning-10weeks/code/week05/08_thuat_ngu_quan_trong_tuan_05.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "09_chuan_bi_moi_truong_tuan_05.py",
+          "path": "courses/machine-learning-10weeks/code/week05/09_chuan_bi_moi_truong_tuan_05.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "10_du_lieu_dau_vao_tuan_05.py",
+          "path": "courses/machine-learning-10weeks/code/week05/10_du_lieu_dau_vao_tuan_05.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "11_cau_truc_chuong_trinh_tuan_05.py",
+          "path": "courses/machine-learning-10weeks/code/week05/11_cau_truc_chuong_trinh_tuan_05.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "12_vi_du_co_ban_tuan_05.py",
+          "path": "courses/machine-learning-10weeks/code/week05/12_vi_du_co_ban_tuan_05.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "13_kiem_tra_du_lieu_tuan_05.py",
+          "path": "courses/machine-learning-10weeks/code/week05/13_kiem_tra_du_lieu_tuan_05.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "14_xu_ly_truong_hop_bien_tuan_05.py",
+          "path": "courses/machine-learning-10weeks/code/week05/14_xu_ly_truong_hop_bien_tuan_05.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "15_quan_sat_ket_qua_tuan_05.py",
+          "path": "courses/machine-learning-10weeks/code/week05/15_quan_sat_ket_qua_tuan_05.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "16_tach_ham_tuan_05.py",
+          "path": "courses/machine-learning-10weeks/code/week05/16_tach_ham_tuan_05.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "17_to_chuc_module_tuan_05.py",
+          "path": "courses/machine-learning-10weeks/code/week05/17_to_chuc_module_tuan_05.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "18_ghi_log_va_debug_tuan_05.py",
+          "path": "courses/machine-learning-10weeks/code/week05/18_ghi_log_va_debug_tuan_05.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "19_kiem_thu_don_vi_tuan_05.py",
+          "path": "courses/machine-learning-10weeks/code/week05/19_kiem_thu_don_vi_tuan_05.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "20_thuc_hanh_co_huong_dan_tuan_05.py",
+          "path": "courses/machine-learning-10weeks/code/week05/20_thuc_hanh_co_huong_dan_tuan_05.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "Tuần 05 — 20 code minh họa",
+          "path": "courses/machine-learning-10weeks/code/week05/README.md",
+          "kind": "4. Code",
+          "format": "md"
+        },
+        {
+          "title": "week05.py",
+          "path": "courses/machine-learning-10weeks/code/week05.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "01_muc_tieu_bai_hoc.py",
+          "path": "courses/machine-learning-10weeks/code/week06/01_muc_tieu_bai_hoc.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "02_du_lieu_cong_cu_dataset_tools.py",
+          "path": "courses/machine-learning-10weeks/code/week06/02_du_lieu_cong_cu_dataset_tools.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "03_ma_nguon_thuc_hanh_hands_on_code.py",
+          "path": "courses/machine-learning-10weeks/code/week06/03_ma_nguon_thuc_hanh_hands_on_code.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "04_bai_tap_challenge.py",
+          "path": "courses/machine-learning-10weeks/code/week06/04_bai_tap_challenge.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "05_code_minh_hoa_cua_tuan.py",
+          "path": "courses/machine-learning-10weeks/code/week06/05_code_minh_hoa_cua_tuan.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "06_khoi_dong_va_muc_tieu_tuan_06.py",
+          "path": "courses/machine-learning-10weeks/code/week06/06_khoi_dong_va_muc_tieu_tuan_06.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "07_khai_niem_nen_tang_tuan_06.py",
+          "path": "courses/machine-learning-10weeks/code/week06/07_khai_niem_nen_tang_tuan_06.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "08_thuat_ngu_quan_trong_tuan_06.py",
+          "path": "courses/machine-learning-10weeks/code/week06/08_thuat_ngu_quan_trong_tuan_06.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "09_chuan_bi_moi_truong_tuan_06.py",
+          "path": "courses/machine-learning-10weeks/code/week06/09_chuan_bi_moi_truong_tuan_06.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "10_du_lieu_dau_vao_tuan_06.py",
+          "path": "courses/machine-learning-10weeks/code/week06/10_du_lieu_dau_vao_tuan_06.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "11_cau_truc_chuong_trinh_tuan_06.py",
+          "path": "courses/machine-learning-10weeks/code/week06/11_cau_truc_chuong_trinh_tuan_06.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "12_vi_du_co_ban_tuan_06.py",
+          "path": "courses/machine-learning-10weeks/code/week06/12_vi_du_co_ban_tuan_06.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "13_kiem_tra_du_lieu_tuan_06.py",
+          "path": "courses/machine-learning-10weeks/code/week06/13_kiem_tra_du_lieu_tuan_06.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "14_xu_ly_truong_hop_bien_tuan_06.py",
+          "path": "courses/machine-learning-10weeks/code/week06/14_xu_ly_truong_hop_bien_tuan_06.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "15_quan_sat_ket_qua_tuan_06.py",
+          "path": "courses/machine-learning-10weeks/code/week06/15_quan_sat_ket_qua_tuan_06.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "16_tach_ham_tuan_06.py",
+          "path": "courses/machine-learning-10weeks/code/week06/16_tach_ham_tuan_06.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "17_to_chuc_module_tuan_06.py",
+          "path": "courses/machine-learning-10weeks/code/week06/17_to_chuc_module_tuan_06.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "18_ghi_log_va_debug_tuan_06.py",
+          "path": "courses/machine-learning-10weeks/code/week06/18_ghi_log_va_debug_tuan_06.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "19_kiem_thu_don_vi_tuan_06.py",
+          "path": "courses/machine-learning-10weeks/code/week06/19_kiem_thu_don_vi_tuan_06.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "20_thuc_hanh_co_huong_dan_tuan_06.py",
+          "path": "courses/machine-learning-10weeks/code/week06/20_thuc_hanh_co_huong_dan_tuan_06.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "Tuần 06 — 20 code minh họa",
+          "path": "courses/machine-learning-10weeks/code/week06/README.md",
+          "kind": "4. Code",
+          "format": "md"
+        },
+        {
+          "title": "week06.py",
+          "path": "courses/machine-learning-10weeks/code/week06.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "01_muc_tieu_bai_hoc.py",
+          "path": "courses/machine-learning-10weeks/code/week07/01_muc_tieu_bai_hoc.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "02_du_lieu_cong_cu_dataset_tools.py",
+          "path": "courses/machine-learning-10weeks/code/week07/02_du_lieu_cong_cu_dataset_tools.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "03_ma_nguon_thuc_hanh_hands_on_code.py",
+          "path": "courses/machine-learning-10weeks/code/week07/03_ma_nguon_thuc_hanh_hands_on_code.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "04_bai_tap_challenge.py",
+          "path": "courses/machine-learning-10weeks/code/week07/04_bai_tap_challenge.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "05_code_minh_hoa_cua_tuan.py",
+          "path": "courses/machine-learning-10weeks/code/week07/05_code_minh_hoa_cua_tuan.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "06_khoi_dong_va_muc_tieu_tuan_07.py",
+          "path": "courses/machine-learning-10weeks/code/week07/06_khoi_dong_va_muc_tieu_tuan_07.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "07_khai_niem_nen_tang_tuan_07.py",
+          "path": "courses/machine-learning-10weeks/code/week07/07_khai_niem_nen_tang_tuan_07.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "08_thuat_ngu_quan_trong_tuan_07.py",
+          "path": "courses/machine-learning-10weeks/code/week07/08_thuat_ngu_quan_trong_tuan_07.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "09_chuan_bi_moi_truong_tuan_07.py",
+          "path": "courses/machine-learning-10weeks/code/week07/09_chuan_bi_moi_truong_tuan_07.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "10_du_lieu_dau_vao_tuan_07.py",
+          "path": "courses/machine-learning-10weeks/code/week07/10_du_lieu_dau_vao_tuan_07.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "11_cau_truc_chuong_trinh_tuan_07.py",
+          "path": "courses/machine-learning-10weeks/code/week07/11_cau_truc_chuong_trinh_tuan_07.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "12_vi_du_co_ban_tuan_07.py",
+          "path": "courses/machine-learning-10weeks/code/week07/12_vi_du_co_ban_tuan_07.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "13_kiem_tra_du_lieu_tuan_07.py",
+          "path": "courses/machine-learning-10weeks/code/week07/13_kiem_tra_du_lieu_tuan_07.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "14_xu_ly_truong_hop_bien_tuan_07.py",
+          "path": "courses/machine-learning-10weeks/code/week07/14_xu_ly_truong_hop_bien_tuan_07.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "15_quan_sat_ket_qua_tuan_07.py",
+          "path": "courses/machine-learning-10weeks/code/week07/15_quan_sat_ket_qua_tuan_07.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "16_tach_ham_tuan_07.py",
+          "path": "courses/machine-learning-10weeks/code/week07/16_tach_ham_tuan_07.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "17_to_chuc_module_tuan_07.py",
+          "path": "courses/machine-learning-10weeks/code/week07/17_to_chuc_module_tuan_07.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "18_ghi_log_va_debug_tuan_07.py",
+          "path": "courses/machine-learning-10weeks/code/week07/18_ghi_log_va_debug_tuan_07.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "19_kiem_thu_don_vi_tuan_07.py",
+          "path": "courses/machine-learning-10weeks/code/week07/19_kiem_thu_don_vi_tuan_07.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "20_thuc_hanh_co_huong_dan_tuan_07.py",
+          "path": "courses/machine-learning-10weeks/code/week07/20_thuc_hanh_co_huong_dan_tuan_07.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "Tuần 07 — 20 code minh họa",
+          "path": "courses/machine-learning-10weeks/code/week07/README.md",
+          "kind": "4. Code",
+          "format": "md"
+        },
+        {
+          "title": "week07.py",
+          "path": "courses/machine-learning-10weeks/code/week07.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "01_muc_tieu_bai_hoc.py",
+          "path": "courses/machine-learning-10weeks/code/week08/01_muc_tieu_bai_hoc.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "02_du_lieu_cong_cu_dataset_tools.py",
+          "path": "courses/machine-learning-10weeks/code/week08/02_du_lieu_cong_cu_dataset_tools.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "03_ma_nguon_thuc_hanh_hands_on_code.py",
+          "path": "courses/machine-learning-10weeks/code/week08/03_ma_nguon_thuc_hanh_hands_on_code.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "04_bai_tap_challenge.py",
+          "path": "courses/machine-learning-10weeks/code/week08/04_bai_tap_challenge.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "05_code_minh_hoa_cua_tuan.py",
+          "path": "courses/machine-learning-10weeks/code/week08/05_code_minh_hoa_cua_tuan.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "06_khoi_dong_va_muc_tieu_tuan_08.py",
+          "path": "courses/machine-learning-10weeks/code/week08/06_khoi_dong_va_muc_tieu_tuan_08.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "07_khai_niem_nen_tang_tuan_08.py",
+          "path": "courses/machine-learning-10weeks/code/week08/07_khai_niem_nen_tang_tuan_08.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "08_thuat_ngu_quan_trong_tuan_08.py",
+          "path": "courses/machine-learning-10weeks/code/week08/08_thuat_ngu_quan_trong_tuan_08.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "09_chuan_bi_moi_truong_tuan_08.py",
+          "path": "courses/machine-learning-10weeks/code/week08/09_chuan_bi_moi_truong_tuan_08.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "10_du_lieu_dau_vao_tuan_08.py",
+          "path": "courses/machine-learning-10weeks/code/week08/10_du_lieu_dau_vao_tuan_08.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "11_cau_truc_chuong_trinh_tuan_08.py",
+          "path": "courses/machine-learning-10weeks/code/week08/11_cau_truc_chuong_trinh_tuan_08.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "12_vi_du_co_ban_tuan_08.py",
+          "path": "courses/machine-learning-10weeks/code/week08/12_vi_du_co_ban_tuan_08.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "13_kiem_tra_du_lieu_tuan_08.py",
+          "path": "courses/machine-learning-10weeks/code/week08/13_kiem_tra_du_lieu_tuan_08.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "14_xu_ly_truong_hop_bien_tuan_08.py",
+          "path": "courses/machine-learning-10weeks/code/week08/14_xu_ly_truong_hop_bien_tuan_08.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "15_quan_sat_ket_qua_tuan_08.py",
+          "path": "courses/machine-learning-10weeks/code/week08/15_quan_sat_ket_qua_tuan_08.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "16_tach_ham_tuan_08.py",
+          "path": "courses/machine-learning-10weeks/code/week08/16_tach_ham_tuan_08.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "17_to_chuc_module_tuan_08.py",
+          "path": "courses/machine-learning-10weeks/code/week08/17_to_chuc_module_tuan_08.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "18_ghi_log_va_debug_tuan_08.py",
+          "path": "courses/machine-learning-10weeks/code/week08/18_ghi_log_va_debug_tuan_08.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "19_kiem_thu_don_vi_tuan_08.py",
+          "path": "courses/machine-learning-10weeks/code/week08/19_kiem_thu_don_vi_tuan_08.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "20_thuc_hanh_co_huong_dan_tuan_08.py",
+          "path": "courses/machine-learning-10weeks/code/week08/20_thuc_hanh_co_huong_dan_tuan_08.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "Tuần 08 — 20 code minh họa",
+          "path": "courses/machine-learning-10weeks/code/week08/README.md",
+          "kind": "4. Code",
+          "format": "md"
+        },
+        {
+          "title": "week08.py",
+          "path": "courses/machine-learning-10weeks/code/week08.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "01_muc_tieu_bai_hoc.py",
+          "path": "courses/machine-learning-10weeks/code/week09/01_muc_tieu_bai_hoc.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "02_du_lieu_cong_cu_dataset_tools.py",
+          "path": "courses/machine-learning-10weeks/code/week09/02_du_lieu_cong_cu_dataset_tools.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "03_ma_nguon_thuc_hanh_hands_on_code.py",
+          "path": "courses/machine-learning-10weeks/code/week09/03_ma_nguon_thuc_hanh_hands_on_code.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "04_bai_tap_challenge.py",
+          "path": "courses/machine-learning-10weeks/code/week09/04_bai_tap_challenge.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "05_code_minh_hoa_cua_tuan.py",
+          "path": "courses/machine-learning-10weeks/code/week09/05_code_minh_hoa_cua_tuan.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "06_khoi_dong_va_muc_tieu_tuan_09.py",
+          "path": "courses/machine-learning-10weeks/code/week09/06_khoi_dong_va_muc_tieu_tuan_09.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "07_khai_niem_nen_tang_tuan_09.py",
+          "path": "courses/machine-learning-10weeks/code/week09/07_khai_niem_nen_tang_tuan_09.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "08_thuat_ngu_quan_trong_tuan_09.py",
+          "path": "courses/machine-learning-10weeks/code/week09/08_thuat_ngu_quan_trong_tuan_09.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "09_chuan_bi_moi_truong_tuan_09.py",
+          "path": "courses/machine-learning-10weeks/code/week09/09_chuan_bi_moi_truong_tuan_09.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "10_du_lieu_dau_vao_tuan_09.py",
+          "path": "courses/machine-learning-10weeks/code/week09/10_du_lieu_dau_vao_tuan_09.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "11_cau_truc_chuong_trinh_tuan_09.py",
+          "path": "courses/machine-learning-10weeks/code/week09/11_cau_truc_chuong_trinh_tuan_09.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "12_vi_du_co_ban_tuan_09.py",
+          "path": "courses/machine-learning-10weeks/code/week09/12_vi_du_co_ban_tuan_09.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "13_kiem_tra_du_lieu_tuan_09.py",
+          "path": "courses/machine-learning-10weeks/code/week09/13_kiem_tra_du_lieu_tuan_09.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "14_xu_ly_truong_hop_bien_tuan_09.py",
+          "path": "courses/machine-learning-10weeks/code/week09/14_xu_ly_truong_hop_bien_tuan_09.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "15_quan_sat_ket_qua_tuan_09.py",
+          "path": "courses/machine-learning-10weeks/code/week09/15_quan_sat_ket_qua_tuan_09.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "16_tach_ham_tuan_09.py",
+          "path": "courses/machine-learning-10weeks/code/week09/16_tach_ham_tuan_09.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "17_to_chuc_module_tuan_09.py",
+          "path": "courses/machine-learning-10weeks/code/week09/17_to_chuc_module_tuan_09.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "18_ghi_log_va_debug_tuan_09.py",
+          "path": "courses/machine-learning-10weeks/code/week09/18_ghi_log_va_debug_tuan_09.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "19_kiem_thu_don_vi_tuan_09.py",
+          "path": "courses/machine-learning-10weeks/code/week09/19_kiem_thu_don_vi_tuan_09.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "20_thuc_hanh_co_huong_dan_tuan_09.py",
+          "path": "courses/machine-learning-10weeks/code/week09/20_thuc_hanh_co_huong_dan_tuan_09.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "Tuần 09 — 20 code minh họa",
+          "path": "courses/machine-learning-10weeks/code/week09/README.md",
+          "kind": "4. Code",
+          "format": "md"
+        },
+        {
+          "title": "week09.py",
+          "path": "courses/machine-learning-10weeks/code/week09.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "01_muc_tieu_bai_hoc.py",
+          "path": "courses/machine-learning-10weeks/code/week10/01_muc_tieu_bai_hoc.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "02_du_lieu_cong_cu_dataset_tools.py",
+          "path": "courses/machine-learning-10weeks/code/week10/02_du_lieu_cong_cu_dataset_tools.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "03_ma_nguon_thuc_hanh_hands_on_code.py",
+          "path": "courses/machine-learning-10weeks/code/week10/03_ma_nguon_thuc_hanh_hands_on_code.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "04_bai_tap_challenge.py",
+          "path": "courses/machine-learning-10weeks/code/week10/04_bai_tap_challenge.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "05_code_minh_hoa_cua_tuan.py",
+          "path": "courses/machine-learning-10weeks/code/week10/05_code_minh_hoa_cua_tuan.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "06_khoi_dong_va_muc_tieu_tuan_10.py",
+          "path": "courses/machine-learning-10weeks/code/week10/06_khoi_dong_va_muc_tieu_tuan_10.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "07_khai_niem_nen_tang_tuan_10.py",
+          "path": "courses/machine-learning-10weeks/code/week10/07_khai_niem_nen_tang_tuan_10.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "08_thuat_ngu_quan_trong_tuan_10.py",
+          "path": "courses/machine-learning-10weeks/code/week10/08_thuat_ngu_quan_trong_tuan_10.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "09_chuan_bi_moi_truong_tuan_10.py",
+          "path": "courses/machine-learning-10weeks/code/week10/09_chuan_bi_moi_truong_tuan_10.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "10_du_lieu_dau_vao_tuan_10.py",
+          "path": "courses/machine-learning-10weeks/code/week10/10_du_lieu_dau_vao_tuan_10.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "11_cau_truc_chuong_trinh_tuan_10.py",
+          "path": "courses/machine-learning-10weeks/code/week10/11_cau_truc_chuong_trinh_tuan_10.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "12_vi_du_co_ban_tuan_10.py",
+          "path": "courses/machine-learning-10weeks/code/week10/12_vi_du_co_ban_tuan_10.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "13_kiem_tra_du_lieu_tuan_10.py",
+          "path": "courses/machine-learning-10weeks/code/week10/13_kiem_tra_du_lieu_tuan_10.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "14_xu_ly_truong_hop_bien_tuan_10.py",
+          "path": "courses/machine-learning-10weeks/code/week10/14_xu_ly_truong_hop_bien_tuan_10.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "15_quan_sat_ket_qua_tuan_10.py",
+          "path": "courses/machine-learning-10weeks/code/week10/15_quan_sat_ket_qua_tuan_10.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "16_tach_ham_tuan_10.py",
+          "path": "courses/machine-learning-10weeks/code/week10/16_tach_ham_tuan_10.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "17_to_chuc_module_tuan_10.py",
+          "path": "courses/machine-learning-10weeks/code/week10/17_to_chuc_module_tuan_10.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "18_ghi_log_va_debug_tuan_10.py",
+          "path": "courses/machine-learning-10weeks/code/week10/18_ghi_log_va_debug_tuan_10.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "19_kiem_thu_don_vi_tuan_10.py",
+          "path": "courses/machine-learning-10weeks/code/week10/19_kiem_thu_don_vi_tuan_10.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "20_thuc_hanh_co_huong_dan_tuan_10.py",
+          "path": "courses/machine-learning-10weeks/code/week10/20_thuc_hanh_co_huong_dan_tuan_10.py",
+          "kind": "4. Code",
+          "format": "py"
+        },
+        {
+          "title": "Tuần 10 — 20 code minh họa",
+          "path": "courses/machine-learning-10weeks/code/week10/README.md",
+          "kind": "4. Code",
+          "format": "md"
+        },
+        {
+          "title": "week10.py",
+          "path": "courses/machine-learning-10weeks/code/week10.py",
+          "kind": "4. Code",
+          "format": "py"
+        }
+      ],
+      "lessonCount": 10
+    }
+  ]
+}

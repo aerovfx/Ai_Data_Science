@@ -1,0 +1,23 @@
+{
+  "classes": [
+    {"id":"DEMO-DS","name":"Lớp Data Science (Demo)","teacher":"Giáo viên phụ trách","room":"Online","schedule":"Theo lịch khóa học"},
+    {"id":"DEMO-AI","name":"Lớp AI/ML (Demo)","teacher":"Giáo viên phụ trách","room":"Online","schedule":"Theo lịch khóa học"}
+  ],
+  "students": [
+    {"id":"demo001","name":"Học viên Demo 01","classId":"DEMO-DS","avatar":"🧑‍💻"},
+    {"id":"demo002","name":"Học viên Demo 02","classId":"DEMO-DS","avatar":"👩‍💻"},
+    {"id":"demo003","name":"Học viên Demo 03","classId":"DEMO-AI","avatar":"🧑‍🔬"},
+    {"id":"demo004","name":"Học viên Demo 04","classId":"DEMO-AI","avatar":"👩‍🔬"}
+  ],
+  "sessions": [
+    {"id":1,"title":"Tuần 1","phase":1},{"id":2,"title":"Tuần 2","phase":1},{"id":3,"title":"Tuần 3","phase":1},{"id":4,"title":"Tuần 4","phase":1},{"id":5,"title":"Tuần 5","phase":1},{"id":6,"title":"Tuần 6","phase":2},{"id":7,"title":"Tuần 7","phase":2},{"id":8,"title":"Tuần 8","phase":2},{"id":9,"title":"Tuần 9","phase":2},{"id":10,"title":"Tuần 10","phase":2}
+  ],
+  "criteria": [
+    {"id":"data","label":"Hiểu dữ liệu","icon":"📊","desc":"Đọc và diễn giải dữ liệu"},
+    {"id":"coding","label":"Kỹ năng lập trình","icon":"💻","desc":"Code rõ ràng và chính xác"},
+    {"id":"problem","label":"Giải quyết vấn đề","icon":"🧩","desc":"Chọn phương pháp phù hợp"},
+    {"id":"teamwork","label":"Hợp tác nhóm","icon":"🤝","desc":"Phối hợp và hỗ trợ"},
+    {"id":"presentation","label":"Trình bày kết quả","icon":"🎤","desc":"Giải thích mạch lạc"},
+    {"id":"ethics","label":"Trách nhiệm AI","icon":"🛡️","desc":"Tôn trọng riêng tư và giới hạn mô hình"}
+  ]
+}

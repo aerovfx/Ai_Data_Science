@@ -1,0 +1,37 @@
+{
+  "updatedAt": "2026-08-14",
+  "criteriaGroups": [
+    {
+      "id": "ai-data",
+      "name": "AI & Khoa học dữ liệu",
+      "criteria": [
+        {"id": "data", "label": "Hiểu dữ liệu", "icon": "📊", "desc": "Đọc, làm sạch và diễn giải dữ liệu chính xác"},
+        {"id": "coding", "label": "Kỹ năng lập trình", "icon": "💻", "desc": "Code rõ ràng, đúng và có thể tái lập"},
+        {"id": "problem", "label": "Giải quyết vấn đề", "icon": "🧩", "desc": "Chọn phương pháp phù hợp và xử lý lỗi"},
+        {"id": "teamwork", "label": "Hợp tác nhóm", "icon": "🤝", "desc": "Phối hợp và hỗ trợ thành viên"},
+        {"id": "presentation", "label": "Trình bày kết quả", "icon": "🎤", "desc": "Giải thích phương pháp và kết luận rõ ràng"},
+        {"id": "ethics", "label": "Trách nhiệm AI", "icon": "🛡️", "desc": "Nhận diện thiên lệch, riêng tư và giới hạn mô hình"}
+      ]
+    }
+  ],
+  "courses": [
+    {
+      "id": "data-science-10weeks", "icon": "📊", "title": "Khoa học dữ liệu nền tảng", "subtitle": "NumPy, Pandas & trực quan hóa", "group": "ai-data", "docPath": "courses/data-science-10weeks/INDEX.md",
+      "sessions": [
+        {"id":1,"title":"Môi trường phân tích dữ liệu","phase":1},{"id":2,"title":"Mảng NumPy cơ bản","phase":1},{"id":3,"title":"Phép toán vector","phase":1},{"id":4,"title":"Cắt lát và lọc mảng","phase":1},{"id":5,"title":"Pandas và DataFrames","phase":1},{"id":6,"title":"Chọn và phân nhóm dữ liệu","phase":2},{"id":7,"title":"Làm sạch dữ liệu","phase":2},{"id":8,"title":"Ghép bảng và biến đổi dữ liệu","phase":2},{"id":9,"title":"Trực quan hóa dữ liệu","phase":2},{"id":10,"title":"Học máy cơ bản","phase":2}
+      ]
+    },
+    {
+      "id": "machine-learning-10weeks", "icon": "🧠", "title": "Machine Learning & Deep Learning", "subtitle": "Scikit-learn, TensorFlow & LLM", "group": "ai-data", "docPath": "courses/machine-learning-10weeks/INDEX.md",
+      "sessions": [
+        {"id":1,"title":"Nhập môn Machine Learning","phase":1},{"id":2,"title":"Hồi quy tuyến tính và Logistic","phase":1},{"id":3,"title":"Decision Trees và Random Forests","phase":1},{"id":4,"title":"K-Means và PCA","phase":1},{"id":5,"title":"Mạng nơ-ron và TensorFlow","phase":1},{"id":6,"title":"CNN cơ bản","phase":2},{"id":7,"title":"NLP và RNN","phase":2},{"id":8,"title":"Transformer và LLM","phase":2},{"id":9,"title":"Hệ thống gợi ý","phase":2},{"id":10,"title":"Đồ án và triển khai","phase":2}
+      ]
+    },
+    {
+      "id": "computer-vision-10weeks", "icon": "👁️", "title": "Computer Vision", "subtitle": "OpenCV, CNN & YOLO", "group": "ai-data", "docPath": "courses/computer-vision-10weeks/INDEX.md",
+      "sessions": [
+        {"id":1,"title":"Nhập môn Computer Vision và OpenCV","phase":1},{"id":2,"title":"Xử lý ảnh cơ bản","phase":1},{"id":3,"title":"Lọc ảnh và nhận diện biên","phase":1},{"id":4,"title":"Phát hiện khuôn mặt","phase":1},{"id":5,"title":"CNN cơ bản","phase":1},{"id":6,"title":"Phân loại ảnh với Keras","phase":2},{"id":7,"title":"Transfer Learning","phase":2},{"id":8,"title":"Phát hiện vật thể với YOLO","phase":2},{"id":9,"title":"Phân vùng ảnh","phase":2},{"id":10,"title":"Hand Tracking và đồ án","phase":2}
+      ]
+    }
+  ]
+}
